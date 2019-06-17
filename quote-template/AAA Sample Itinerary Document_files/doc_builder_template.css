@@ -1,0 +1,322 @@
+
+
+
+/* font installation test start  */
+
+  /* h1 {
+      font-family: myFirstFont;
+  }
+  body {
+    font-family: 'Roboto', sans-serif;
+
+
+  } */
+
+
+/* font installation test end */
+
+
+
+body {
+   margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  background-color: #FFF;
+}
+body,td,th {
+  /* font-family: Geneva, sans-serif; */
+  font-size: 13px;
+  color: #666;
+}
+
+/* dh gold start */
+.dh-gold {
+  color: GoldenRod;
+}
+/* dh gold end */
+
+/* dh gold start */
+.dh-white {
+  color: white;
+}
+/* dh gold end */
+
+/* dh font size 25px start */
+
+.dh-size25 {
+  font-size: 25px;
+}
+
+/* dh font size 25px end */
+
+/* e element margin bottom 15px */
+
+.e-marginBot15 {
+  margin-bottom: 15px;
+}
+
+/* e element margin bottom 15px */
+
+/* element margin horizontal 5px start */
+
+.e-padHoriz5 {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+/* element margin horizontal 5px end */
+
+/* element margin horizontal 5px start */
+
+.e-padHoriz8 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+/* element margin horizontal 5px end */
+
+
+
+/* element margin vert 5px start */
+
+.e-marginVert5 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+/* element margin vert 5px end */
+
+/* element padding 5px start */
+
+.e-padding5 {
+  padding: 5px;
+}
+
+/* element padding 5px end */
+
+/* element display inline start */
+
+.e-displayInline {
+  display: inline;
+}
+/* element display inline end */
+
+/* element display inline block start */
+
+.e-displayInlineblock {
+  display: inline-block;
+}
+/* element display inline block end */
+
+
+
+/* item bg gold start  */
+
+.i-bgGold {
+  background-color: GoldenRod;
+}
+
+/* item bg gold end */
+
+/* item bg  chocolate start  */
+
+.i-bgChoc {
+  background-color: #473B3A;
+}
+
+/* item bg chocolate end */
+
+
+
+/* item font size 17 start */
+
+.i-font17 {
+  font-size: 17px;
+}
+
+/* item font size 17 end */
+
+/* item font size 11 start */
+
+.i-font11 {
+  font-size: 11px;
+}
+
+/* item font size 11 end */
+
+
+
+
+/* item case all caps start */
+.i-caseCaps {
+  text-transform: uppercase;
+}
+/* item case all caps end */
+
+/* item height and line height 40px start */
+
+.i-heightAnLineHeight40 {
+  height:40px;
+  line-height:40px;
+}
+
+/* item height and line height 40px end */
+
+
+/* s section margin horizontal */
+
+.s-marginHoriz15 {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+/* s section margin horizontal */
+
+/* s section padding 15px start */
+
+.s-paddingVert15 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+/* s section padding 15px end */
+
+/* s ordered list padding left start   */
+
+ol {
+ padding-left: 1em;
+}
+
+
+/* s ordered list float flow end  */
+
+
+/* section table no inner borders start  */
+
+.s-tableInnerBordersNone td,
+.s-tableInnerBordersNone th {
+    border: none;
+}
+
+/* section table no inner borders end  */
+
+
+/* section text align center start  */
+
+.s-textAlignCenter  {
+  text-align: center;
+}
+
+/* section text align center end  */
+
+
+
+/* data holder text baseline middle start  */
+  .dh-textBaselineTop  {
+    vertical-align: text-top;
+  }
+/* data holder text baseline middle end  */
+
+/* dataholder  verticale align middle start*/
+
+.dh-vertAlignMid {
+  vertical-align:middle;
+}
+
+/* dataholder  verticale align middle end */
+
+/* data holder padding verticle 5An3 start  */
+
+.dh-padVert5An3 {
+  padding-top: 5px;
+  padding-bottom: 3px;
+}
+
+/* data holder padding verticle 5An3 end  */
+
+/* dh letter spacing 1 start */
+
+.dh-letterSpace1 {
+  letter-spacing: 1px;
+}
+
+/* dh letter spacing 1 end */
+
+/* dh font arial start */
+
+.dh-fontArial {
+  font-family: arial;
+}
+
+/* dh font arial end */
+
+
+/* contrainer start*/
+.g-container {padding: 0px;}
+@media only screen and (min-width: 992px) {
+  .g-container {max-width: 750px;}
+}
+@media only screen and (min-width: 1200px) {
+  .g-container {max-width: 750px;}
+}
+
+/* contrainer end*/
+
+
+/* margin bottom 2em start*/
+.g-margB2em { margin-bottom: 2em;}
+  /* margin bottom 2em end*/
+
+  /* drop cap start*/
+  .g-dropCap::first-letter {
+    float: left;
+    /* margin: 10px 10px 0 0; */
+    margin-top: 10px;
+    margin-right: 10px;
+    padding: 0 20px;
+    font-size: 4em;
+    line-height: 1;
+    text-indent: 0;
+    background: transparent;
+    color: inherit;
+    font-family: EB Garamond;
+}
+  /* drop cap end */
+
+  /* nice bullet  start*/
+  .g-nice-bullets li {
+    list-style-type: none;
+    text-indent:-2em;
+  }
+  .g-nice-bullets li::before {
+    content: '✻';
+    font-size: 13px;
+    color: #888888;
+    padding-right: 10px;
+  }
+  /* nice bullet  end*/
+
+
+
+  /* dh list items indent none start */
+  .dh-listItIndentNone {    list-style-position: inside;}
+  /* dh list items indent none end */
+
+  /* dh list items indent  start */
+  .dh-listItIndent li {    list-style-position: outside; }
+  /* dh list items indent none end */
+
+/* padding top 1em start*/
+  .g-padTop10px {padding-top:10px;}
+  /* padding top 1em end*/
+
+
+.g_font-Segoe-UI {
+  font-family: "Segoe UI Regular";
+}
+
+
+.g_bg-grey {
+  background-color: WhiteSmoke;
+}
