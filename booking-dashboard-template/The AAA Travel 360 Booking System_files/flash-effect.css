@@ -1,0 +1,19 @@
+
+/* flash effect start */
+.flash-effect {
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 0.5s; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 0.5s;
+}
+@-webkit-keyframes example {
+    0%   {-webkit-filter: opacity(100%); }
+    50%  {-webkit-filter: opacity(0%); }
+    100% {-webkit-filter: opacity(100%); }
+}
+@keyframes example {
+    0%   {filter:opacity(100%);}
+    50%  {filter:opacity(0%);}
+    100% {filter:opacity(100%);}
+}
+/* flash effect end */
