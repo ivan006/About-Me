@@ -30,7 +30,7 @@ I developed this from a brief.
 
 <a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/booking-dashboard-template/">Click here</a>
 
-I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar at the bottom.
+I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
 
 ### Harmonyville.net
 > A personal project I'm working on.
