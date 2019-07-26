@@ -1,5 +1,5 @@
 
-# Ivan Copeland's Portfolio
+
 ## Front end examples
 
 ### Invoice template
