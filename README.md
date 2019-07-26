@@ -7,7 +7,7 @@
 
 <a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/invoice-template/">Click here</a>
 
-I made with with some stylistic advice from my boss, I made sure that it was completely PDF friendly.
+I made with some stylistic advice from my boss, I made sure that it was completely PDF friendly.
 
 ### Trip quote template
 > This quote will be sent to prospective travellers in order to persuade them into taking the best trip they could ever imagine.
@@ -30,7 +30,7 @@ I developed this from a brief.
 
 <a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/booking-dashboard-template/">Click here</a>
 
-I helped to develope this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar at the bottom.
+I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar at the bottom.
 
 ### Harmonyville.net
 > A personal project I'm working on.
