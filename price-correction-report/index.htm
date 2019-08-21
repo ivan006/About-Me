@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<!--[if IE ]><![endif]-->
+<!--[if lt IE 8]> <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]> <html class="no-js lt-ie9 ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]> <html class="no-js lt-ie10 ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!-->
+<html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-touch" style="" lang="en"><!--<![endif]--><head id="page-head">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<title>The Book360 System Dashboard</title>
+
+<!-- Original theme framework start -->
+<link href="The%20Book360%20System%20Dashboard_files/bootstrap.css" rel="stylesheet" type="text/css">
+
+<!-- Font Awesome 4.3.0 -->
+<link href="The%20Book360%20System%20Dashboard_files/font-awesome.css" rel="stylesheet" type="text/css">
+
+<!-- Hex Symbol Font -->
+<link href="The%20Book360%20System%20Dashboard_files/icomoon.css" rel="stylesheet" type="text/css">
+
+<!-- Wrapper (Layout?) and Supporting Styles -->
+<link href="The%20Book360%20System%20Dashboard_files/sidewaze_columns.css" rel="stylesheet" type="text/css">
+<link href="The%20Book360%20System%20Dashboard_files/sidewaze_base.css" rel="stylesheet" type="text/css">
+
+<!-- DataTables -->
+<link href="The%20Book360%20System%20Dashboard_files/dataTables.css" rel="stylesheet" type="text/css">
+<link href="The%20Book360%20System%20Dashboard_files/buttons.css" rel="stylesheet" type="text/css">
+<link href="The%20Book360%20System%20Dashboard_files/drawingboard.css" rel="stylesheet" type="text/css">
+<link href="The%20Book360%20System%20Dashboard_files/style.css" rel="stylesheet" type="text/css">
+<link href="The%20Book360%20System%20Dashboard_files/boxes.css" rel="stylesheet" type="text/css">
+
+<!-- SCRIPTS IN HEAD ============================================== -->
+
+<script src="The%20Book360%20System%20Dashboard_files/bugsnag.js"></script>
+<script>window.bugsnagClient = bugsnag('e8a4a2acf6427e90b68b5335450a6a62')</script>
+
+<script src="The%20Book360%20System%20Dashboard_files/modernizr-2.js"></script>
+
+<!-- NOTE:: jquery 2.x does not support IE 8 so version 1.9.1 is used for older versions of IE :: calling jQuery in the head for ajax work if necessary. -->
+<!--[if gt IE 8]><!-->
+
+<script src="The%20Book360%20System%20Dashboard_files/jquery.js"></script>
+
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="assets/js/1.9.1-jquery.min.js"></script>
+<![endif]-->
+
+<!-- WINDOWS 8 Phones BUG FIX -->
+
+<!-- <script src=""></script> -->
+
+<!-- <script src=""></script> -->
+
+<!--[if lt IE 9]>
+<script type="text/javascript" src="assets/js/selectivizr.js"></script>
+<![endif]-->
+
+<script>
+var ADMIN_PATH = 'dashboard';
+var ADMIN_URL = 'https://demo.book360.co.za/dashboard';
+var THEME_URL = '//demo.book360.co.za/themes/private_travel';
+var base_url = '//demo.book360.co.za/';
+</script>
+
+<!-- ========= GENERATE CODE AND TOUCH ICONS http://iconifier.net/ =========== -->
+
+
+	<link href="The%20Book360%20System%20Dashboard_files/jquery-ui-1.css" rel="stylesheet" type="text/css">
+	<link href="The%20Book360%20System%20Dashboard_files/jquery-ui_002.css" rel="stylesheet" type="text/css">
+	<link href="The%20Book360%20System%20Dashboard_files/jquery-ui.css" rel="stylesheet" type="text/css">
+
+	<script>var BASE_HREF="//demo.book360.co.za/"</script>
+	<script type="text/javascript" src="The%20Book360%20System%20Dashboard_files/jquery-2.js"></script>
+	<script type="text/javascript" src="The%20Book360%20System%20Dashboard_files/jquery-ui-1.js"></script>
+	<script type="text/javascript" src="The%20Book360%20System%20Dashboard_files/voidavoid.js"></script>
+</head>
+
+
+<body>
+
+<!-- ********** accessibility skip to nav skip content ********** -->
+
+<ul class="sr-only" id="top">
+<li><a href="#" title="Skip to navigation" accesskey="n">Skip to Navigation</a></li>
+<li><a href="#" title="Skip to content" accesskey="c">Skip to Content</a></li>
+</ul>
+
+<!--  /.sr-only accessibility-->
+
+<!-- ********** Navigation Column ********** -->
+
+<div class=" col-xs-2 col-sm-1 col-md-3 pad-0 col-lg-3 z-index-1" id="s-left-sidebar">
+
+<div id="s-left-sidebar-text-part" class="g-height-scre  nav-col col-md-9  pad-0 border-right hidden-sm hidden-xs g-border-right">
+
+<nav id="nav" class="clearfix" role="navigation">
+
+
+<img src="The%20Book360%20System%20Dashboard_files/1_HEX-LOGO.jpg" alt="Hex Africa" class="brand-logo g-round-edg-max g-marg-1em">
+
+
+<!-- <h5></h5>
+
+<img src="/" alt=""> -->
+
+<!-- ********** Primary Menu ********** -->
+
+<!-- TO KEEP OPEN WHEN ON THAT SECTION add class "active" to the a tag of the parent li | (the one with the .has-children class on it) <li class="has-children"><a href="#" class="active" ... -->
+
+<ul class="primary-nav"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/dashboard">Team Dashboard</a></li><li class="treeview dcjq-parent-li"><a class="dcjq-parent" href="#">TripBuilder Bookings <i class="fa fa-angle-left "></i><span class="dcjq-icon"></span></a><ul class="has-children dcjq-parent-li" style="display: none;"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/tripbuilder/bookings">My Bookings</a></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/tripbuilder/bookings">Team Bookings</a></li></ul></li><li class="treeview dcjq-parent-li"><a class="dcjq-parent" href="#">Legacy Bookings <i class="fa fa-angle-left "></i><span class="dcjq-icon"></span></a><ul class="has-children dcjq-parent-li" style="display: none;"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/bookings">My Bookings</a></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/bookings/team">Team Bookings</a></li></ul></li><li class="dcjq-parent-li"><a class="dcjq-parent" href="#">Support <i class="fa fa-angle-left "></i><span class="dcjq-icon"></span></a><ul class="has-children dcjq-parent-li" style="display: none;"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/system/tickets/all">All tickets</a></li></ul></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/rates/">Rates</a></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/tripbuilder/packages">Packages</a></li><li class=""><a class="dcjq-parent active" href="https://demo.book360.co.za/reports/standard/list">Reports</a></li></ul>
+</nav>
+
+</div>
+
+<!-- / End of .nav-col -->
+
+<!-- Rule : add class .has-children on li item if the li has children -->
+
+<!-- ********** Logo Column (search and social follow) ********** -->
+
+<div id="s-left-sidebar-icon-part" class="g-height-scre logo-col col-xs-12 col-sm-12 col-md-3 pad-0 border-right ">
+
+<!-- <a class="toggle-menu"><span class="icon-arrow-bold-right"></span></a> -->
+
+<!-- ********** LOGO ********** -->
+
+<div class="logo-wrapper">
+
+<!-- <a href="/home" class="clearfix"> <img id="logo" src="Logo.png" alt="Hex"> </a> -->
+
+<div class="fo-si-33"><span class="quicklink hoverpink i-both-sidebar-toggler" data-toggle="tooltip" data-placement="right" title="" id="i-both-sidebar-toggler" style="font-size: 1em;" data-original-title="Toggle Sidebar">❖</span></div>
+
+<div class="hidden-lg hidden-md fo-si-33"><a data-toggle="modal" data-target="#modal-mobile-menu"><span class="quicklink  hoverpink" data-toggle="tooltip" data-placement="right" title="" data-original-title="Support">☰</span></a></div>
+
+<div class="fo-si-33"><a data-toggle="modal" data-target="#modal-help"><span class="quicklink icon-lifebuoy hoverpink" data-toggle="tooltip" data-placement="right" title="" data-original-title="Create ticket"></span></a></div>
+
+<!-- <div class="fo-si-33"><a data-toggle="modal" data-target="#modal-info"><span class="quicklink icon-info-with-circle hoverorange" 	data-toggle="tooltip" data-placement="right" title="Security info"></span>
+</a>
+</div> -->
+
+<!-- <div class="fo-si-33">
+<a data-toggle="modal" data-target="#modal-suggestions">
+<span 	class="quicklink icon-message hoveryellow" data-toggle="tooltip" data-placement="right" title="Suggestions"></span>
+</a>
+</div> -->
+
+<div class="fo-si-33"><a data-toggle="modal" data-target="#modal-calc"><span class="quicklink icon-calculator hovergreen" data-toggle="tooltip" data-placement="right" title="" data-original-title="Calculator"></span></a></div>
+
+<!-- <div class="fo-si-33">
+<a data-toggle="modal" data-target="#modal-user">
+<span class="quicklink icon-add-user hoverblue" data-toggle="tooltip" data-placement="right" title="User profile"></span>
+</a>
+</div> -->
+
+<!-- <div class="fo-si-33"><a data-toggle="modal" data-target="#modal-cale"><span class="quicklink icon-calendar hoverorange"></span></a></div> -->
+
+<div class="fo-si-33"><a data-toggle="modal" data-target="#modal-db-sync"><span class="quicklink icon-filter_drama hoverpurple" data-toggle="tooltip" data-placement="right" title="" data-original-title="Cloud Sync"></span></a></div>
+
+<div class="fo-si-33"><a href="https://demo.book360.co.za/logout"><span class="quicklink icon-emoji-flirt hoverpink" data-toggle="tooltip" data-placement="right" title="" data-original-title="Logout"></span></a></div>
+
+</div>
+
+<!-- / End of Icon Bar -->
+
+<!-- ********** SEARCH WRAPPER ********** -->
+
+<!--<div class="search-wrapper">
+
+<a href="#" class="toggle-search tooltip-hover" title="search" data-placement="right"><i class="fa fa-search"></i></a> -->
+
+<!--  SEARCH PANEL -->
+
+<!--
+
+<div class="search-panel"><form role="form"><input type="search" placeholder="Enter search term and press enter" class="form-control"></form></div></div>
+
+-->
+
+<!-- / End of search-wrapper -->
+
+</div>
+
+</div>
+
+
+
+<!-- / End of .logo-col -->
+
+<!-- ____________ CONTENT COLUMN _______________  -->
+
+<div class="content-col col-xs-10 col-sm-11 col-md-9 pad-0 col-lg-7 g-border-right g-border-left" id="page">
+
+<div class="pad-hor-2 inner-content g-height-scre"> <!-- DO NOT USE .container or .container-fluid with this framework -->
+
+<div class="g-height-50 i-both-sidebar-toggler-parent hide">
+
+<span class="quicklink hoverpink i-both-sidebar-toggler fo-si-33" data-toggle="tooltip" data-placement="right" title="" data-original-title="Toggle Sidebar">Menu</span>
+
+</div>
+
+
+<style>
+.dataTables_wrapper .dataTables_processing {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 70px;
+    margin-left: -50%;
+    margin-top: -25px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 30px;
+}
+</style>
+<h2 class="h1 font-weight-thin">Cost Overrides Report </h2>
+<hr>
+
+
+
+<div id="reports-element_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer"><div class="row"><div class="col-sm-6"><div class="dataTables_length" id="reports-element_length"><label>Show <select name="reports-element_length" aria-controls="reports-element" class="form-control input-sm"><option value="10" selected="selected">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option></select> entries</label></div></div><div class="col-sm-6"><div id="reports-element_filter" class="dataTables_filter"><label>Search:<input type="search" class="form-control input-sm" placeholder="" aria-controls="reports-element"></label></div></div></div><div class="row"><div class="col-sm-12"><table id="reports-element" class="table table-bordered table-striped table-hover dataTable no-footer" role="grid" aria-describedby="reports-element_info" style="width: 740px;"><thead><tr role="row"><th class="sorting_desc" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 70px;" aria-label="Creation date: activate to sort column ascending" aria-sort="descending">Creation date</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 65px;" aria-label="Consultant: activate to sort column ascending">Consultant</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 67px;" aria-label="Type: activate to sort column ascending">Type</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 52px;" aria-label="Reason: activate to sort column ascending">Reason</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 76px;" aria-label="Custom reason: activate to sort column ascending">Custom reason</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 55px;" aria-label="Original value: activate to sort column ascending">Original value</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 54px;" aria-label="Value after override: activate to sort column ascending">Value after override</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 56px;" aria-label="Package / booking: activate to sort column ascending">Package / booking</th><th class="sorting" tabindex="0" aria-controls="reports-element" rowspan="1" colspan="1" style="width: 146px;" aria-label="Link: activate to sort column ascending">Link</th></tr></thead><tbody><tr role="row" class="odd"><td class="sorting_1">2019-08-05 16:37:08</td><td>Ivan Copeland</td><td>cost-value</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td>1926</td><td>1922</td><td><span title="package" class="icon-box" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/packages/view/49" role="button" class="btn btn-info btn-id"><div>49</div></a></td></tr><tr role="row" class="even"><td class="sorting_1">2019-08-05 16:35:46</td><td>Ivan Copeland</td><td>markup-value</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td>0</td><td>10</td><td><span title="package" class="icon-box" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/packages/view/49" role="button" class="btn btn-info btn-id"><div>49</div></a></td></tr><tr role="row" class="odd"><td class="sorting_1">2019-08-05 15:22:03</td><td>Ivan Copeland</td><td>cost-value</td><td>Other</td><td>Testing</td><td>3780</td><td>3781</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200375" role="button" class="btn btn-info btn-id"><div>ABFI200375</div></a></td></tr><tr role="row" class="even"><td class="sorting_1">2019-08-02 10:15:11</td><td>Sabrina Giquel</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>20</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200372" role="button" class="btn btn-info btn-id"><div>ABFI200372</div></a></td></tr><tr role="row" class="odd"><td class="sorting_1">2019-08-02 10:15:11</td><td>Sabrina Giquel</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>20.1347</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200372" role="button" class="btn btn-info btn-id"><div>ABFI200372</div></a></td></tr><tr role="row" class="even"><td class="sorting_1">2019-08-02 10:15:11</td><td>Sabrina Giquel</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>20.4545</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200372" role="button" class="btn btn-info btn-id"><div>ABFI200372</div></a></td></tr><tr role="row" class="odd"><td class="sorting_1">2019-08-02 10:15:11</td><td>Sabrina Giquel</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>20.1619</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200372" role="button" class="btn btn-info btn-id"><div>ABFI200372</div></a></td></tr><tr role="row" class="even"><td class="sorting_1">2019-08-02 10:15:10</td><td>Sabrina Giquel</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>20.6349</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200372" role="button" class="btn btn-info btn-id"><div>ABFI200372</div></a></td></tr><tr role="row" class="odd"><td class="sorting_1">2019-07-22 10:20:18</td><td>Megan Olivier</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>2.0408</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200369" role="button" class="btn btn-info btn-id"><div>ABFI200369</div></a></td></tr><tr role="row" class="even"><td class="sorting_1">2019-07-22 10:20:18</td><td>Megan Olivier</td><td>markup-percentage</td><td><i>(No reason given)</i></td><td><i>(No reason given)</i></td><td></td><td>3.1869</td><td><span title="booking" class="icon-open-book" style="font-size: 2em;"></span></td><td><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200369" role="button" class="btn btn-info btn-id"><div>ABFI200369</div></a></td></tr></tbody></table></div></div><div class="row"><div class="col-sm-5"><div class="dataTables_info" id="reports-element_info" role="status" aria-live="polite">Showing 1 to 10 of 147 entries</div></div><div class="col-sm-7"><div class="dataTables_paginate paging_simple_numbers" id="reports-element_paginate"><ul class="pagination"><li class="paginate_button previous disabled" id="reports-element_previous"><a href="#" aria-controls="reports-element" data-dt-idx="0" tabindex="0">Previous</a></li><li class="paginate_button active"><a href="#" aria-controls="reports-element" data-dt-idx="1" tabindex="0">1</a></li><li class="paginate_button "><a href="#" aria-controls="reports-element" data-dt-idx="2" tabindex="0">2</a></li><li class="paginate_button "><a href="#" aria-controls="reports-element" data-dt-idx="3" tabindex="0">3</a></li><li class="paginate_button "><a href="#" aria-controls="reports-element" data-dt-idx="4" tabindex="0">4</a></li><li class="paginate_button "><a href="#" aria-controls="reports-element" data-dt-idx="5" tabindex="0">5</a></li><li class="paginate_button disabled" id="reports-element_ellipsis"><a href="#" aria-controls="reports-element" data-dt-idx="6" tabindex="0">…</a></li><li class="paginate_button "><a href="#" aria-controls="reports-element" data-dt-idx="7" tabindex="0">15</a></li><li class="paginate_button next" id="reports-element_next"><a href="#" aria-controls="reports-element" data-dt-idx="8" tabindex="0">Next</a></li></ul></div></div></div></div>
+<script type="text/javascript">
+
+// var dataSet =
+// ;
+
+$(document).ready(function() {
+
+  // booking_id
+  // consultant
+  // reason
+  // link_slug
+
+
+  $('#reports-element').DataTable( {
+
+    ajax: {
+      url: 'https://demo.book360.co.za/reports/standard/api/cost_overrides',
+      dataSrc: ''
+    },
+    columns: [
+      {  title: 'Creation date',},
+      {  title: 'Consultant',},
+      {  title: 'Type',},
+      {
+        title: 'Reason',
+        render: function(data, type, row) {
+          if (row[3]== "" || row[3]== null) {
+            return '<i>(No reason given)</i>';
+          } else {
+            return data;
+          }
+
+        }
+      },
+      {
+        title: 'Custom reason',
+        render: function(data, type, row) {
+
+          if (row[3]== "" || row[3]== null) {
+            return '<i>(No reason given)</i>';
+          } else {
+            return data;
+          }
+        }
+      },
+      {  title: 'Original value',},
+      {  title: 'Value after override',},
+      {
+        title: 'Package / booking',
+        render: function(data, type, row) {
+          if (data== "package") {
+            return '<span title="'+data+'"  class="icon-box" style="font-size: 2em;"></span>';
+          } else if (data== "booking") {
+            return '<span title="'+data+'" class="icon-open-book" style="font-size: 2em;"></span>';
+          }
+        }
+      },
+      {
+        title: 'Link',
+        render: function(data, type, row) {
+
+          if (data== "" || data== null) {
+            return 'Deleted'
+          } else if (row[7]== "package") {
+            var link_url = "/tripbuilder/packages/view/";
+          } else {
+            var link_url = "/tripbuilder/bookings/view/";
+          }
+          return '<a href="' +link_url+ data +
+          '" role="button" class="btn btn-info btn-id"><div>' + data + '</div></a>';
+
+        }
+
+
+      },
+    ],
+
+    // columns: [
+    //   {title: 'ID', data: 'id', },
+    //   {title: 'Booking', data: 'reference', },
+    //   {title: 'Consultant', data: 'consultant', },
+    //   {title: 'Reason', data: 'reason', },
+    //   {title: 'Old value', data: 'old_value', },
+    //   {title: 'New value', data: 'new_value', },
+    // ],
+    // columnDefs: [
+    //   {
+    //     targets: 9,
+    //     render: function(data, type, row) {
+    //       return '<a href="/tripbuilder/bookings/view/' + row[9] +
+    //       '" role="button" class="btn btn-info btn-id"><div>' + row[9] + '</div></a>';
+    //     }
+    //   },
+    // ],
+    // columnDefs: [
+    //   {
+    //     targets: 8,
+    //     render: function(data, type, row) {
+    //       if (row[7]== "package") {
+    //          var link_url = "/tripbuilder/packages/view/";
+    //       } else {
+    //         var link_url = "/tripbuilder/bookings/view/";
+    //       }
+    //       return '<a href="' +link_url+ row[8] +
+    //       '" role="button" class="btn btn-info btn-id"><div>' + row[8] + '</div></a>';
+    //     }
+    //   },
+    // ],
+    "order": [[ 0, "desc" ]]
+
+  } );
+
+
+
+
+
+  // $('#reports-element').DataTable( {
+  //
+  //   ajax: {
+  //     url: '/reports/standard/api/cost_overrides',
+  //     dataSrc: ''
+  //   },
+  //   columns: [
+  //
+  //     {
+  //       data: 'itinerary_id',
+  //       title: 'itinerary_id',
+  //     },
+  //     {
+  //       data: 'cost_override_reason',
+  //       title: 'cost_override_reason',
+  //     },
+  //     {
+  //       data: 'cost_override_reason_text',
+  //       title: 'cost_override_reason_text',
+  //     },
+  //
+  //     {
+  //       data: 'created_by',
+  //       title: 'created_by',
+  //     },
+  //     {
+  //       data: 'date_created',
+  //       title: 'date_created',
+  //     },
+  //   ],
+  //   columnDefs: [
+  //     {
+  //       targets: 5,
+  //       render: function(data, type, row) {
+  //
+  //         return '<div title="'
+  //         +'id: ' + row.id + '\n'
+  //         +'field type: '+ row.field_type +'\n'
+  //         + 'new value: '+ row.new_value +'\n'
+  //         + 'old value: '+ row.old_value +'\n'
+  //         + 'updated by: '+ row.updated_by +'\n'
+  //         + 'date updated: ' + row.date_updated +'\n'
+  //         + '" >More info<div>';
+  //       }
+  //     },
+  //   ]
+  // } );
+} );
+
+</script>
+
+</div><!-- / End of .row -->
+
+</div><!-- / End of inner-content -->
+
+
+<!-- ______________ Footer Column :: jQuery to make equal heights from 901px - 1199px : BREAK THESE UP INTO INCLUDES ______________ -->
+
+<footer id="s-right-sidebar" class="footer footer-col g-clearfix  pad-0 g-border-top-xs g-border-top-sm col-md-12 g-border-top-md col-lg-2 g-border-top-off-lg g-clearfix-off-lg ">
+
+<div class="">
+
+<div class="footer-content-1  pad-0 col-xs-12 g-border-right-off-xs col-sm-6  g-border-right-sm col-md-3  g-border-right-md col-lg-12 g-border-right-off-lg " style="height: 274px;">
+
+<div class="pad-2 inner-content">
+
+<h5>Soon to Travel</h5>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200362" title="Travel date: 2021-02-09 00:00:00" style="font-size: 12px;">Adams Party - Iva Test 3</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200366" title="Travel date: 2019-11-19 00:00:00" style="font-size: 12px;">ivan 109 3</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200367" title="Travel date: 2019-11-11 00:00:00" style="font-size: 12px;">ivan 109 4</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200359" title="Travel date: 2019-08-11 00:00:00" style="font-size: 12px;">asasas</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200373" title="Travel date: 2019-08-01 08:29:16" style="font-size: 12px;">ivan test</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200374" title="Travel date: 2019-08-01 00:00:00" style="font-size: 12px;">ivan test 2</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200371" title="Travel date: 2019-07-31 00:00:00" style="font-size: 12px;">ivan test</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200364" title="Travel date: 2019-07-17 00:00:00" style="font-size: 12px;">ivan 109 1</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200365" title="Travel date: 2019-07-17 00:00:00" style="font-size: 12px;">ivan 109 2</a><br><a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200363" title="Travel date: 2019-07-14 00:00:00" style="font-size: 12px;">Ivan Test - Costs</a><br>
+<!--/.img-widget-->
+
+</div>
+
+<!--/.inner-content-->
+
+<hr class="divider">
+
+</div>
+
+<!--/.footer-col-1 -->
+
+<div class="test footer-content-2  pad-0 col-xs-12 g-border-right-off-xs col-sm-6 col-md-3  g-border-right-md col-lg-12 g-border-right-off-lg " style="height: 274px;">
+
+<div class="pad-2 inner-content">
+
+<h5>Recent bookings</h5>
+
+
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200374" title="Creation date: 2019-08-01 10:32:05" style="font-size: 12px;">ivan test 2</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200373" title="Creation date: 2019-08-01 10:31:00" style="font-size: 12px;">ivan test</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200371" title="Creation date: 2019-07-31 09:59:30" style="font-size: 12px;">ivan test</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200367" title="Creation date: 2019-07-17 09:25:24" style="font-size: 12px;">ivan 109 4</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200366" title="Creation date: 2019-07-17 09:22:33" style="font-size: 12px;">ivan 109 3</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200365" title="Creation date: 2019-07-17 09:21:27" style="font-size: 12px;">ivan 109 2</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200364" title="Creation date: 2019-07-17 09:21:05" style="font-size: 12px;">ivan 109 1</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200363" title="Creation date: 2019-07-13 16:50:29" style="font-size: 12px;">Ivan Test - Costs</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200362" title="Creation date: 2019-07-13 13:08:47" style="font-size: 12px;">Adams Party - Iva Test 3</a><br>
+
+<a href="https://demo.book360.co.za/tripbuilder/bookings/view/ABFI200361" title="Creation date: 2019-07-13 13:07:41" style="font-size: 12px;">Adams Party Ivan Test 2</a><br>
+</div>
+
+<!--/.inner-content-->
+
+<hr class="divider">
+
+</div>
+
+<!--/.footer-col-2 -->
+
+<div class="footer-content-3  pad-0 col-xs-12 g-border-right-off-xs col-sm-6  g-border-right-sm col-md-3  g-border-right-md col-lg-12 g-border-right-off-lg " style="height: 111px;">
+
+<div class="pad-2 inner-content">
+
+<a href="#">
+
+<h5>Tasks</h5>
+
+</a>
+
+<p>Coming soon</p>
+
+<!--
+<p class="no-margin-bottom"><strong>Task One :</strong> <a class="text-underline" href="tel:0215533893">Do something</a>.</p>
+<p class="no-margin-bottom"><strong>Task One :</strong> <a class="text-underline" href="tel:0215533893">Do something else</a>.</p>
+<p class="no-margin-bottom"><strong>Task One :</strong> <a class="text-underline" href="tel:0215533893">Do something different</a>.</p>
+-->
+
+</div>
+
+<!--/.inner-content-->
+
+<hr class="divider">
+
+</div>
+
+<!--/.footer-col-3 -->
+
+<div class="pad-0  footer-content-4 col-xs-12 col-sm-6 col-md-3 col-lg-12 " style="height: 111px;">
+
+<div class="pad-2 inner-content">
+
+<a href="#">
+
+<h5>Email inbox</h5>
+
+</a>
+
+<p>Coming soon</p>
+
+<!--
+
+<p class="no-margin-bottom"><a href="#">Email number one</a>.</p>
+<p class="no-margin-bottom"><a href="#">Email number two</a>.</p>
+<p class="no-margin-bottom"><a href="#">Email number three</a>.</p>
+
+-->
+
+</div>
+
+<!--/.inner-content-->
+
+<hr class="divider">
+
+</div>
+
+<!--/.footer-col-4 -->
+
+</div>
+
+<div class="pad-2 inner-content copyright">
+
+<p>Copyright © 2019 Book360.</p>
+
+</div>
+
+<!--/.inner-content-->
+
+</footer>
+
+<!--/footer-col -->
+
+<!-- ______________ END FOOTER ______________ -->
+
+<!-- _________ FAUX COLUMNS ________ -->
+
+<div class="what-is-faux">
+<div class="faux-col faux-nav-col"></div>
+<div class="faux-col faux-logo-col"></div>
+<div class="faux-col faux-content-col"></div>
+<div class="faux-col faux-footer-col"></div>
+</div>
+
+<!-- Go to top -->
+
+<!--<a id="go-to-top" title="up"><i class=""></i></a> -->
+
+<!-- This ends the application content and begins the modals for sign up and login -->
+<!-- This ends the application content and begins the modals for sign up and login -->
+<!-- This ends the application content and begins the modals for sign up and login -->
+
+<!-- _________ MODAL INCLUDES ________ -->
+
+<!-- ___ Modal ID # ___ -->
+
+<!-- Hex Modal -->
+
+<div id="modal-db-sync" class="modal fade" role="dialog">
+
+<div class="modal-dialog">
+
+<!-- Modal content-->
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<button type="button" class="close" data-dismiss="modal">×</button>
+
+<h4 class="modal-title">
+  <span style="font-size:30px;" class="quicklink icon-filter_drama hoveryellow"></span>
+  AAA Travel Book360
+  <span style="color:#CCC;">DB Sync</span></h4>
+
+
+</div><!-- / Modal header -->
+
+<div class="modal-body">
+
+<div class="row">
+
+<div class="col-md-12">
+  <table class="table-responsive table-bordered table" width="100%" cellspacing="0" cellpadding="30" border="1">
+  <tbody><tr>
+    <td><h4>Tourplan Database</h4></td>
+    <td><h4>AAA Cloud Database</h4></td>
+  </tr>
+  <tr>
+    <td><p><strong>DB connection status:</strong> <a href="#" class="btn btn-sm btn-success">Connected</a> <br><strong>Since:</strong> 11:22:52am</p></td>
+    <td><p><strong>DB connection status:</strong> <a href="#" class="btn btn-sm btn-success">Connected</a> <br><strong>Since:</strong> 11:22:52am</p></td>
+  </tr>
+
+    <tr>
+    <td><p><strong>Latest SAFI:</strong> <span id="tourplan-latest">-</span></p></td>
+    <td><p><strong>Latest SAFI:</strong> <span id="cloud-latest">-</span></p></td>
+  </tr>
+
+  <!-- <tr>
+    <td></td>
+    <td><p>130 SAFIs from complete</p></td>
+  </tr> -->
+
+  <tr>
+    <td>Table Name and Total Records :</td>
+    <td>Table Name and Total Records :</td>
+  </tr>
+
+  <tr>
+  <td>
+    <table id="tourplan-table" class="display table table-bordered" style="width:100%; display:none;">
+            <thead>
+                <tr>
+                    <th>Table Name</th>
+                    <th>Total Records</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Table Name</th>
+                    <th>Total Records</th>
+                </tr>
+            </tfoot>
+    </table>
+    </td>
+    <td>
+        <table id="cloud-table" class="display table table-bordered" style="width:100%; display:none;">
+            <thead>
+                <tr>
+                    <th>Table Name</th>
+                    <th>Total Records</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Table Name</th>
+                    <th>Total Records</th>
+                </tr>
+            </tfoot>
+    </table></td>
+  </tr>
+</tbody></table>
+</div>
+</div><!-- / Row -->
+
+</div><!-- / Modal body -->
+
+<div class="modal-footer">
+
+<button type="button" class="btn btn-lg btn-info" data-dismiss="modal">Close</button>
+
+</div><!-- / Modal footer -->
+
+</div><!-- / Modal content -->
+
+</div><!-- / Modal dialog -->
+
+</div><!-- / Modal -->
+
+<script>
+
+var cloudTable, tourPlanTable;
+var x =
+$(function () {
+  $('#modal-db-sync').on('shown.bs.modal', function (e) {
+    $.get('/system-dbsync/dbsync/getTableNames', function(response){
+      x = response;
+
+      $("#tourplan-latest").text(response["tourplan"].latestReference);
+      $("#cloud-latest").text(response["cloud"].latestReference);
+      tourPlanTable= $("#tourplan-table").DataTable({
+        "dom": "tr",
+        "data": response["tourplan"]['tables'],
+        "columns" : [
+            { "data" : "name" },
+            { "data" : "count",  "render": $.fn.dataTable.render.number(',') }
+        ],
+        "initComplete": function(){
+          $("#tourplan-table").fadeIn('fast');
+        }
+      });
+
+      cloudTable = $("#cloud-table").DataTable({
+        "dom": "tr",
+        "data": response["cloud"]['tables'],
+        "columns" : [
+            { "data" : "name" },
+            { "data" : "count", "render": $.fn.dataTable.render.number(',') }
+        ],
+        "initComplete": function(){
+          $("#cloud-table").fadeIn('fast');
+        }
+      });
+
+    }, "json");
+  });
+
+  $('#modal-db-sync').on('hidden.bs.modal', function () {
+    cloudTable.destroy();
+    tourPlanTable.destroy();
+    $('#tourplan-table > tbody').empty();
+    $('#cloud-table > tbody').empty();
+    $('#tourplan-table').hide();
+    $('#cloud-table').hide();
+
+  });
+
+});
+</script>
+<!-- ___ Modal ID # ___ -->
+
+<!-- Hex Modal -->
+
+<div id="modal-calc" class="modal fade" role="dialog">
+
+<div class="modal-dialog">
+
+<!-- Modal content-->
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<button type="button" class="close" data-dismiss="modal">×</button>
+
+<h4 class="modal-title">
+  <span style="font-size:30px;" class="quicklink icon-calculator hoveryellow">
+  </span>
+  Book360
+  <span style="color:#CCC;"> Calculator</span>
+</h4>
+</div><!-- / Modal header -->
+
+<div class="modal-body">
+
+<div class="row">
+
+<div class="col-md-12">
+    <style>
+
+    /* centered columns styles */
+
+    .col-centered {
+      display: inline-block;
+      float: none;
+      /* reset the text-align */
+      text-align: left;
+      /* inline-block space fix */
+      margin-right: -4px;
+    }
+
+    .col-fixed {
+      /* custom width */
+      width: 320px;
+    }
+
+
+
+    .table-box {
+      border-collapse: separate;
+      border: 0px solid @table-outer-border-color;
+    }
+
+    .table-box thead > tr > th {
+      border-bottom: 0px solid @table-head-border-separate-color;
+    }
+
+  </style>
+
+  <div class="col-xs-4 col-centered col-fixed">
+    <div class="well">
+      <div class="panel panel-default">
+        <table class="table table-box" style="width:100%">
+          <tbody><tr>
+            <th colspan="3" style="text-align: right !important">
+              <div id="message">
+
+              </div>
+            </th>
+            <td>
+              <button class="btn btn-primary btn-block" onclick="displayData('C')">C</button>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <button id="getSeven" class="btn btn-block" onclick="displayData(7)">7</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData(8)">8</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData(9)">9</button>
+            </td>
+            <td>
+              <button class="btn btn-primary btn-block" onclick="displayData('/')">/</button>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <button class="btn btn-block" onclick="displayData(4)">4</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData(5)">5</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData(6)">6</button>
+            </td>
+            <td>
+              <button class="btn btn-primary btn-block" onclick="displayData('*')">*</button>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <button class="btn btn-block" onclick="displayData(1)">1</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData(2)">2</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData(3)">3</button>
+            </td>
+            <td>
+              <button class="btn btn-primary btn-block" onclick="displayData('-')">-</button>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <button class="btn btn-block" onclick="displayData(0)">0</button>
+            </td>
+            <td>
+              <button class="btn btn-block" onclick="displayData('.')">.</button>
+            </td>
+            <td>
+              <button class="btn btn-primary btn-block" onclick="displayData('=')">=</button>
+            </td>
+            <td>
+              <button class="btn btn-primary btn-block" onclick="displayData('+')">+</button>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    var str = '';
+    function displayData(ch) {
+    if (ch == 'C') {
+      str = '';
+    } else if (ch == '=') {
+      var t = str.length;
+      for (n = t; n > 0; n--) {
+        if (str.substr(-1) == '+' || str.substr(-1) == '-' || str.substr(-1) == '*' || str.substr(-1) == '/') {
+          var k = str.length - 1;
+          str = str.substr(0, k);
+        }
+      }
+      str = eval(str);
+    } else {
+      if (str == '') {
+        if (ch == '+' || ch == '*' || ch == '/') {
+          return Error;
+        } else if (ch == '-') {
+          str = '-';
+        } else {
+          str = JSON.stringify(ch);
+        }
+      } else {
+        str = str + ch;
+      }
+    }
+    document.getElementById("message").innerHTML = str;
+    }
+  </script>
+
+</div>
+
+</div><!-- / Row -->
+
+</div><!-- / Modal body -->
+
+<div class="modal-footer">
+
+<button type="button" class="btn btn-lg btn-info" data-dismiss="modal">Close</button>
+
+</div><!-- / Modal footer -->
+
+</div><!-- / Modal content -->
+
+</div><!-- / Modal dialog -->
+
+</div><!-- / Modal -->
+<!-- ___ Modal ID # ___ -->
+
+<link rel="stylesheet" href="The%20Book360%20System%20Dashboard_files/flash-effect.htm">
+
+<style>
+/*
+/----------------
+/ ticket system start
+/---------------
+*/
+
+
+/* grey button start */
+
+.g-btn-grey {
+  background-color: darkgrey;
+  border: rgba(0,0,0,0.1) 1px solid !important;
+  color: white;
+}
+.g-btn-grey:hover {
+  background-color: grey;
+}
+.g-btn-grey:hover:active, .g-btn-grey:active  {
+  background-color: dimgrey;
+}
+
+/* grey button end */
+
+
+ /*
+ /----------------
+ / ticket system end
+ /---------------
+ */
+</style>
+
+<!-- Book360 Ticketing Modal -->
+<div id="modal-help" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+  <div class="modal-dialog modal-lg">
+    <!-- Modal content-->
+    <div class="modal-content">
+    <div class="" id="saving-ticket-loading" style="display:none;width: 100%; margin: 0 auto;text-align: center;padding-bottom: 10px;position: absolute;z-index: 10000;background: rgba(255, 255, 255, 0.6);height: 100%;">
+                <img style="width: 180px;height: 180px;margin-top: 230px;" fill="green" src="The%20Book360%20System%20Dashboard_files/rings.svg" alt="" id="loading-indicator"> <br>
+                <span style="font-size: 18px;font-weight:bold;" id="submitting-ticket-message">Submitting ticket</span><br>
+            </div>
+      <div class="modal-header">
+        <div class="row">
+          <div class="col-md-offset-0 col-md-7">
+
+            <h4 class="modal-title">
+              <span style="font-size:30px;" class="quicklink icon-lifebuoy hoverblue"></span>
+              Book360
+              <span style="color:#CCC;">  Create a Ticket</span>
+            </h4>
+          </div>
+          <div class="col-md-offset-0 col-md-4">
+            <!-- Save button was here -->
+          </div>
+
+          <div class="col-md-offset-0 col-md-1">
+            <button type="button" class="close" data-dismiss="modal">×</button>
+          </div>
+        </div>
+      </div><!-- / Modal header -->
+
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="row">
+              <form name="save_ticket">
+
+                <input style="display:none;" type="text" class="form-control" id="ticket-related-booking" placeholder="">
+              <div class="col-md-6">
+
+                <div class="row">
+                  <div class="col-md-12">
+                    <div class="form-group row">
+                      <label for="ticket-subject" class="col-md-12 col-form-label">Subject</label>
+                      <div class="col-sm-12">
+                        <input type="text" class="form-control" id="ticket-subject" name="ticket-subject" placeholder="" required="">
+                      </div>
+                    </div>
+
+                    <div class="form-group row">
+                      <label for="inputPassword" class="col-md-12 col-form-label">Comments</label>
+                      <div class="col-md-12">
+                        <textarea class="form-control" rows="3" id="ticket-comment"></textarea>
+                        <small id="emailHelp" class="form-text text-muted">Please provide as much detail as possible so that we can best assist you.</small>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <label for="inputPassword" class="col-sm-3 col-form-label">Category</label>
+                      <br>
+                      <br>
+
+                      <div class="col-md-12" id="tags-container">
+                        <div data-id="Book360 Brand" class="btn btn-success category-select " style="width: 75px;" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Report unexpected results or behaviours" data-category="bug">
+                          <span class=" icon-bug " style="font-size: 1.7em;"></span>
+                          <br>Bug
+                        </div>
+                        <div data-id="Security" class="btn btn-success category-select g-btn-grey" style="width: 75px;" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Request new functionality" data-category="feature">
+                          <span class=" icon-mask " style="font-size: 1.7em;"></span>
+                          <br>Feature
+                        </div>
+                        <div data-id="User Experience (UX)" class="btn btn-success category-select g-btn-grey" style="width: 75px;" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Report an issue relating to data or content" data-category="data">
+                          <span class=" icon-database" style="font-size: 1.7em;"></span>
+                          <br>Data
+                        </div>
+                      </div>
+                      <div class="dataTables_filter" id="content-items_filter" style="display:none;">
+                        <input aria-controls="content-items" type="text">
+                      </div>
+                    </div>
+
+                    <br><br>
+
+<!--                    <hr>-->
+                    <div class="row">
+                      <label for="inputPassword" class="col-sm-3 col-form-label">Priority</label>
+                      <br>
+                      <br>
+
+                      <div class="col-md-12" id="tags-container1">
+                        <div data-id="Book360 Brand" class="btn btn-success priority-select  " style="width: 75px;" data-priority="normal">
+                          <span class=" icon-emoji-flirt " style="font-size: 1.7em;"></span>
+                          <br>Normal
+                        </div>
+                        <div data-id="Security" class="btn btn-success priority-select  g-btn-grey" style="width: 75px;" data-priority="high">
+                          <span class=" icon-emoji-neutral " style="font-size: 1.7em;"></span>
+                          <br>High
+                        </div>
+                        <div data-id="User Experience (UX)" class="btn btn-success priority-select  g-btn-grey" style="width: 75px;" data-priority="urgent">
+                          <span class=" icon-emoji-sad" style="font-size: 1.7em;"></span>
+                          <br>Urgent
+                        </div>
+                      </div>
+                      <div class="dataTables_filter" id="content-items_filter" style="display:none;">
+                        <input aria-controls="content-items" type="text">
+                      </div>
+                    </div>
+
+                  </div>
+                </div><!-- / Row -->
+              </div>
+              </form>
+              <div class="col-md-6">
+
+                <div class="row">
+                  <div class="col-md-12">
+
+                    <div class="form-group row">
+
+					  <button type="button" class="btn btn-lg btn-primary col-sm-8 col-md-offset-2" id="save-ticket">Save and send ticket</button><br><br><br>
+                      <p class="col-sm-8 col-md-offset-2">Click to submit your ticket to the support team. Your ticket is important to us.</p>
+                      <button class="btn btn-primary col-sm-8 col-md-offset-2" id="take-screenshot">
+                        <span style="font-size: 6em;" class="icon-camera"></span>
+                        <br> Take screenshot
+                      </button>
+                      <div class="col-sm-8 col-md-offset-2">
+                        <div style="margin: 10px 0;">
+                          <!-- <br><a data-toggle="modal" data-target="#modal-screenshot">launch image editor </a> -->
+                          <span id="screenshot-saving" style="display:none; font-size: 12px;"><img src="The%20Book360%20System%20Dashboard_files/tail-spin.svg" alt="" style="margin:0 10px;width:30px;"> Saving screenshot</span>
+                          <span id="screenshot-saved" style="display:none;"><span style="font-size: 12px; color:#398439;font-weight: bold;">Screenshot saved!</span> <a href="#" id="edit-screenshot" style="font-size: 12px; font-weight: bold;">Edit screenshot</a></span>
+                        </div>
+                      </div>
+                    </div>
+
+
+
+                    <div class="form-group row">
+                      <div class="col-sm-8 col-md-offset-2" style="padding: 0;">
+                        <div id="upload-image-uploadCanvas" data-types=".jpg,.jpeg,.png,.pdf,.doc,.docx,.xlsx,.xlts,.xlt,.csv" data-aspect="width:200-height:200-" data-size="10" data-max-files="1" data-reload="1" data-crop="">
+                          <form style="display:none;" enctype="multipart/form-data" method="post" action="/system/tickets/upload-attachment" class="dropzone needsclick dz-clickable dz-started" id="upload-image-upload-form"></form>
+                          <!-- <form enctype="multipart/form-data" method="post" action="/system/tickets/upload-attachment" class="dropzone needsclick dz-clickable dz-started" id="upload-image-upload-form"></form> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div><!-- / Row -->
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+      </div><!-- / Modal body -->
+
+<!--      <div class="modal-footer">
+        <div class="row">
+
+          <div class="col-md-offset-4 col-md-4 ">
+            <button type="button" class="btn btn-danger col-md-8" data-dismiss="modal">Cancel and close</button>
+          </div>
+
+
+        </div>
+      </div>-->
+
+      <!-- / Modal footer -->
+
+    </div><!-- / Modal content -->
+  </div><!-- / Modal dialog -->
+</div><!-- / Modal -->
+
+<!-- Hex Modal -->
+<div id="modal-ticket-screenshot" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
+    <!-- Modal content-->
+    <div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">×</button>
+        <h4 class="modal-title">
+           Ticket screenshot
+         </h4>
+      </div><!-- / Modal header -->
+
+      <img id="view-large-screenshot" src="" alt="" style="width: 100%;">
+    </div><!-- / Modal content -->
+  </div><!-- / Modal dialog -->
+</div><!-- / Modal -->
+
+<script src="The%20Book360%20System%20Dashboard_files/flash-effect_002.htm" type="text/javascript"></script>
+<!-- ___ Modal ID # ___ -->
+
+<!-- Hex Modal -->
+
+<div id="modal-screenshot" class="modal modal-fluid fade" role="dialog" data-backdrop="static" and="" data-keyboard="false">
+
+<div class="modal-dialog" style="width: 75%;">
+
+<!-- Modal content-->
+
+<div class="modal-content">
+
+<div class="modal-header">
+
+<button type="button" class="close" data-dismiss="modal">×</button>
+
+<h4 class="modal-title"><span style="font-size:30px;" class="quicklink icon-camera hoverblue"></span> AAA Travel 360 <span style="color:#CCC;">Screenshot</span></h4>
+
+</div><!-- / Modal header -->
+
+<div class="modal-body">
+<div id="screenshot-editor">
+</div>
+</div><!-- / Modal body -->
+
+<div class="modal-footer">
+<button type="button" class="btn btn-lg btn-info" data-dismiss="modal">Close</button>
+<button type="button" class="btn btn-lg btn-primary" id="save-screenshot-editor">Save Screenshot</button>
+
+</div><!-- / Modal footer -->
+
+</div><!-- / Modal content -->
+
+</div><!-- / Modal dialog -->
+
+</div><!-- / Modal -->
+<!-- ___ Modal ID # ___ -->
+
+<!-- ___ Modal ID # ___ -->
+
+<!-- ___ Modal ID # ___ -->
+
+<!-- ___ Modal ID # ___ -->
+
+
+  <!-- Modal -->
+  <div class="modal fade hidden-lg hidden-md " id="modal-mobile-menu" role="dialog">
+    <div class="modal-dialog">
+
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">×</button>
+          <h4 class="modal-title">Menu</h4>
+        </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-md-12" id="SSlidingMobileMenu">
+
+<nav id="nav" class="clearfix" role="navigation">
+
+
+<img src="The%20Book360%20System%20Dashboard_files/1_HEX-LOGO.jpg" alt="Hex Africa" class="brand-logo g-round-edg-max g-marg-1em">
+
+
+<!-- <h5></h5>
+
+<img src="/" alt=""> -->
+
+<!-- ********** Primary Menu ********** -->
+
+<!-- TO KEEP OPEN WHEN ON THAT SECTION add class "active" to the a tag of the parent li | (the one with the .has-children class on it) <li class="has-children"><a href="#" class="active" ... -->
+
+<ul class="primary-nav"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/dashboard">Team Dashboard</a></li><li class="treeview dcjq-parent-li"><a class="dcjq-parent" href="#">TripBuilder Bookings <i class="fa fa-angle-left "></i><span class="dcjq-icon"></span></a><ul class="has-children dcjq-parent-li" style="display: none;"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/tripbuilder/bookings">My Bookings</a></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/tripbuilder/bookings">Team Bookings</a></li></ul></li><li class="treeview dcjq-parent-li"><a class="dcjq-parent" href="#">Legacy Bookings <i class="fa fa-angle-left "></i><span class="dcjq-icon"></span></a><ul class="has-children dcjq-parent-li" style="display: none;"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/bookings">My Bookings</a></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/bookings/team">Team Bookings</a></li></ul></li><li class="dcjq-parent-li"><a class="dcjq-parent" href="#">Support <i class="fa fa-angle-left "></i><span class="dcjq-icon"></span></a><ul class="has-children dcjq-parent-li" style="display: none;"><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/system/tickets/all">All tickets</a></li></ul></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/rates/">Rates</a></li><li class=""><a class="dcjq-parent" href="https://demo.book360.co.za/tripbuilder/packages">Packages</a></li><li class=""><a class="dcjq-parent active" href="https://demo.book360.co.za/reports/standard/list">Reports</a></li></ul>
+</nav>
+
+</div>
+
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+<!-- ___ Modal ID # ___ -->
+
+<!-- _________ FOOTER SCRIPTS ________ -->
+
+<script src="The%20Book360%20System%20Dashboard_files/script.js"></script>
+
+<script src="The%20Book360%20System%20Dashboard_files/sidebar_toggle.js"></script>
+
+<!-- Latest compiled and minified JavaScript -->
+
+<script src="The%20Book360%20System%20Dashboard_files/bootstrap.js"></script>
+
+<!-- <script src=""></script> -->
+
+<script src="The%20Book360%20System%20Dashboard_files/jquery_002.js"></script>
+
+<!-- _________ DATATABLES ________ -->
+
+<script src="The%20Book360%20System%20Dashboard_files/jquery_003.js"></script>
+<script src="The%20Book360%20System%20Dashboard_files/dataTables_002.js"></script>
+<script src="The%20Book360%20System%20Dashboard_files/dataTables.js"></script>
+
+<!-- _________ TICKETING ________ -->
+
+<script src="The%20Book360%20System%20Dashboard_files/html2canvas.js"></script>
+<script src="The%20Book360%20System%20Dashboard_files/drawingboard.js"></script>
+<script src="The%20Book360%20System%20Dashboard_files/ticketing.js"></script>
+
+<script>
+// Initialize popover :
+
+$(function() {
+    $('#Popover').popover();
+});
+
+// Toggle class on Popover element :
+
+$("#Popover").click(function() {
+    $(this).toggleClass('btn-default btn-success');
+});
+
+// Initialize tooltip(s) :
+
+$('a#Tooltip').tooltip();
+</script>
+
+<script>
+var SSlidingMobileMenu = $('#s-left-sidebar-text-part').html();
+document.getElementById("SSlidingMobileMenu").innerHTML = SSlidingMobileMenu;
+</script>
+</body></html>
