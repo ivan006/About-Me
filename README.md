@@ -1,5 +1,22 @@
 
 
+## Back end example 
+
+
+### Price correction report
+> This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
+
+<a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/price-correction-report/">Click here</a>
+
+I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
+
+### Booking dashboard template
+> This will help tour operators to customize trips for their clients.
+
+<a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/booking-dashboard-template/">Click here</a>
+
+I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
+
 ## Front end examples
 
 ### Invoice template
@@ -29,20 +46,3 @@ I developed this from a brief.
 <a href="https://rssa.co.za/">Click here</a>
 
 I did some maintenance on this site.
-
-## Back end example 
-
-### Booking dashboard template
-> This will help tour operators to customize trips for their clients.
-
-<a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/booking-dashboard-template/">Click here</a>
-
-I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
-
-### Harmonyville.net
-> A personal project I'm working on.
-
-<a href="http://harmonyville.net">Click here</a>
-
-This is based on a flat file database design.
-
