@@ -26,6 +26,13 @@ I helped to develop this template. I also helped with some of the back end funct
 
 ## Front end examples
 
+### JavaScript Font Swapper
+> I developed this just to demonstrate my JavaScript skill.
+
+<a href="https://github.com/ivan006/font-picker-pigeon">Click here</a>
+
+It's based on VueJS.
+
 ### Invoice template
 > This invoice will be sent to travellers for them to pay for their lovely trips.
 
