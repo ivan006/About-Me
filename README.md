@@ -2,6 +2,13 @@
 
 ## Back end example 
 
+### Flexi-merce
+> This is a pet project which aims to demonstrate how e-commerce systems can be much more flexible.
+
+<a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Click here</a>
+
+Here I developed every part of this app.
+
 
 ### Price correction report
 > This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
