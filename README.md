@@ -7,7 +7,7 @@
 
 <a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Click here</a>
 
-Here I developed every part of this app.
+This app uses Laravel and I developed every part of it.
 
 
 ### Price correction report
