@@ -13,7 +13,7 @@ I helped to develop this template. I also helped with some of the back end funct
 ### Booking dashboard template
 > This will help tour operators to customize trips for their clients.
 
-<a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/booking-dashboard-template/">Click here</a>
+<a href="booking-dashboard-template/">Click here</a>
 
 I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
 
