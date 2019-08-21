@@ -8,7 +8,7 @@
 
 <a href="price-correction-report/">Click here</a>
 
-I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
+Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.
 
 ### Booking dashboard template
 > This will help tour operators to customize trips for their clients.
