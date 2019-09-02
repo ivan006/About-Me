@@ -6,6 +6,7 @@
 > This is a pet project which aims to demonstrate how e-commerce systems can be much more flexible.
 
 <a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Source code</a>
+
 <a href="http://harmonyville.net">Demo</a>
 
 
