@@ -1,4 +1,4 @@
-## Hex African - Commercial work
+## Hex Africa - Commercial work
 
 ### Back end work
 
