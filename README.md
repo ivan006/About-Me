@@ -1,6 +1,6 @@
 ## Hex Africa - Commercial work
 
-### Back end work
+### Back end examples
 
 #### Price correction report
 > This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
