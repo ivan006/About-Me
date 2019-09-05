@@ -28,7 +28,7 @@ I made with some stylistic advice from my boss, I made sure that it was complete
 
 I developed this with stylistic input from others.
 
-#### Report builder template - Front end example
+### Report builder template - Front end example
 > This report generating wizard will help tour operators answer questions they have about current and past business activities.
 
 <a href="report-builder/">Rendition</a>
