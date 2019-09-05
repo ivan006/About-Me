@@ -9,7 +9,7 @@
 
 Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.
 
-##### Booking dashboard template
+#### Booking dashboard template
 > This will help tour operators to customize trips for their clients.
 
 <a href="booking-dashboard-template/">Rendition</a>
