@@ -54,9 +54,9 @@ I did some maintenance on this site.
 It's based on VueJS.
 
 
-## Pet Projects
+## Personal Projects
 
-### Flexi-merce
+### Flex-report
 > This is a pet project which aims to demonstrate how e-commerce systems can be much more flexible.
 
 <a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Source code</a>
