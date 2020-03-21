@@ -46,16 +46,82 @@
   </tr>
   <tr>
     <td>
-      
+      Invoice template - Front end example
     </td>
     <td>
-      
+      This invoice will be sent to travellers for them to pay for their lovely trips.
     </td>
     <td>
-      
+      I made with some stylistic advice from my boss, I made sure that it was completely PDF friendly.
     </td>
     <td>
-      
+      <a href="invoice-template/">Rendition</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Trip quote template - Front end example
+    </td>
+    <td>
+      This quote will be sent to prospective travellers in order to persuade them into taking the best trip they could ever imagine.
+    </td>
+    <td>
+      I developed this with stylistic input from others.
+    </td>
+    <td>
+      <a href="quote-template/">Rendition</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Report builder template - Front end example
+    </td>
+    <td>
+      This report generating wizard will help tour operators answer questions they have about current and past business activities.
+    </td>
+    <td>
+      I developed this from a brief.
+    </td>
+    <td>
+      <a href="report-builder/">Rendition</a>
+    </td>
+  </tr>
+</table>
+
+
+
+## Amibe - Commercial work
+
+
+<table>
+  <tr>
+    <td>
+      title
+    </td>
+    <td>
+      feature
+    </td>
+    <td>
+      link
+    </td>
+    <td>
+      my contribution
+    </td>
+  </tr>
+  
+
+  <tr>
+    <td>
+      Radiological Society of South Africa Website
+    </td>
+    <td>
+      A place to profile all the radiological society members and share industry news.
+    </td>
+    <td>
+      I did some maintenance on this site.
+    </td>
+    <td>
+      <a href="https://rssa.co.za/">Demo</a>
     </td>
   </tr>
   <tr>
@@ -77,58 +143,54 @@
 
 
 
+## Course work/Personal Projects
 
+<table>
+  <tr>
+    <td>
+      title
+    </td>
+    <td>
+      feature
+    </td>
+    <td>
+      link
+    </td>
+    <td>
+      my contribution
+    </td>
+  </tr>
+  
 
-### Invoice template - Front end example
-> This invoice will be sent to travellers for them to pay for their lovely trips.
+  <tr>
+    <td>
+      JavaScript Font Swapper
+    </td>
+    <td>
+      I developed this just to demonstrate my JavaScript skill.
+    </td>
+    <td>
+      It's based on VueJS.
+    </td>
+    <td>
+      <a href="https://github.com/ivan006/font-picker-pigeon">Source code</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Flex-report
+    </td>
+    <td>
+      This is a pet project which aims to demonstrate how e-commerce systems can be much more flexible.
+    </td>
+    <td>
+      This app uses Laravel and I developed every part of it.
+    </td>
+    <td>
+      <a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Source code</a>
+      <a href="http://harmonyville.net">Demo</a>
+    </td>
+  </tr>
 
-<a href="invoice-template/">Rendition</a>
-
-I made with some stylistic advice from my boss, I made sure that it was completely PDF friendly.
-
-### Trip quote template - Front end example
-> This quote will be sent to prospective travellers in order to persuade them into taking the best trip they could ever imagine.
-
-<a href="quote-template/">Rendition</a>
-
-I developed this with stylistic input from others.
-
-### Report builder template - Front end example
-> This report generating wizard will help tour operators answer questions they have about current and past business activities.
-
-<a href="report-builder/">Rendition</a>
-
-I developed this from a brief.
-
-## Amibe - Commercial work
-
-### Radiological Society of South Africa Website
-> A place to profile all the radiological society members and share industry news.
-
-<a href="https://rssa.co.za/">Demo</a>
-
-I did some maintenance on this site.
-
-## Course work 
-
-### JavaScript Font Swapper
-> I developed this just to demonstrate my JavaScript skill.
-
-<a href="https://github.com/ivan006/font-picker-pigeon">Source code</a>
-
-It's based on VueJS.
-
-
-## Personal Projects
-
-### Flex-report
-> This is a pet project which aims to demonstrate how e-commerce systems can be much more flexible.
-
-<a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Source code</a>
-
-<a href="http://harmonyville.net">Demo</a>
-
-
-This app uses Laravel and I developed every part of it.
-
+</table>
 
