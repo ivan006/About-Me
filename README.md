@@ -1,12 +1,49 @@
 ## Hex Africa - Commercial work
 
+<table class="tg">
+  <tr>
+    <td class="tg-0pky">wwd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">dwa</td>
+    <td class="tg-0pky">wad</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">wwd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">dwa</td>
+    <td class="tg-0pky">wad</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">wwd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">dwa</td>
+    <td class="tg-0pky">wad</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">wwd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">awd</td>
+    <td class="tg-0pky">dwa</td>
+    <td class="tg-0pky">wad</td>
+  </tr>
+</table>
+
+
+
 |  title | feature  |  link |  my contribution |
 |---|---|---|---|
 | Price correction report - Back end example | > This helps tour operators to keep track of the supplier pricing information that needs updating in their system. | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list. | <a href="price-correction-report/">Rendition</a> |
 |   |   |   |   |
 | Booking dashboard template - Back end example | This will help tour operators to customize trips for their clients. | I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar. | <a href="booking-dashboard-template/">Rendition</a> |
 |   |   |   |   |
-
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 
 
