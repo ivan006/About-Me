@@ -3,45 +3,78 @@
 <table>
   <tr>
     <td>
-      sss
+      title
+    </td>
+    <td>
+      feature
+    </td>
+    <td>
+      link
+    </td>
+    <td>
+      my contribution
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      Price correction report - Back end example
+    </td>
+    <td>
+      This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
+    </td>
+    <td>
+      Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.
+    </td>
+    <td>
+      <a href="price-correction-report/">Rendition</a>
     </td>
   </tr>
   <tr>
-    <td class="tg-0pky">wwd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">dwa</td>
-    <td class="tg-0pky">wad</td>
+    <td>
+      Booking dashboard template - Back end example
+    </td>
+    <td>
+      This will help tour operators to customize trips for their clients.
+    </td>
+    <td>
+      I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
+    </td>
+    <td>
+      <a href="booking-dashboard-template/">Rendition</a>
+    </td>
   </tr>
   <tr>
-    <td class="tg-0pky">wwd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">dwa</td>
-    <td class="tg-0pky">wad</td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
   </tr>
   <tr>
-    <td class="tg-0pky">wwd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">dwa</td>
-    <td class="tg-0pky">wad</td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
+    <td>
+      
+    </td>
   </tr>
+
 </table>
 
-
-
-|  title | feature  |  link |  my contribution |
-|---|---|---|---|
-| Price correction report - Back end example | > This helps tour operators to keep track of the supplier pricing information that needs updating in their system. | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list. | <a href="price-correction-report/">Rendition</a> |
-|   |   |   |   |
-| Booking dashboard template - Back end example | This will help tour operators to customize trips for their clients. | I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar. | <a href="booking-dashboard-template/">Rendition</a> |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
 
 
 
