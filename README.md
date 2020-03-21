@@ -2,11 +2,9 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| ### Price correction report - Back end example | > This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
- | <a href="price-correction-report/">Rendition</a> | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list. |   |
+|   | Price correction report - Back end example | > This helps tour operators to keep track of the supplier pricing information that needs updating in their system. | <a href="price-correction-report/">Rendition</a> | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list. |
 |   |   |   |   |   |
 |   |   |   |   |   |
-
 
 
 
