@@ -1,21 +1,14 @@
 ## Hex Africa - Commercial work
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   | Price correction report - Back end example | > This helps tour operators to keep track of the supplier pricing information that needs updating in their system. | <a href="price-correction-report/">Rendition</a> | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list. |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|  title | feature  |  link |  my contribution |
+|---|---|---|---|
+| Price correction report - Back end example | > This helps tour operators to keep track of the supplier pricing information that needs updating in their system. | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list. | <a href="price-correction-report/">Rendition</a> |
+| Booking dashboard template - Back end example | This will help tour operators to customize trips for their clients. | I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar. | <a href="booking-dashboard-template/">Rendition</a> |
+|   |   |   |   |
 
 
 
 
-
-### Booking dashboard template - Back end example
-> This will help tour operators to customize trips for their clients.
-
-<a href="booking-dashboard-template/">Rendition</a>
-
-I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
 
 ### Invoice template - Front end example
 > This invoice will be sent to travellers for them to pay for their lovely trips.
