@@ -52,7 +52,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="booking-dashboard-template/1.png">Screenshot</a></p>
+        <p><a href="booking-dashboard-template/2.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
