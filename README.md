@@ -1,5 +1,5 @@
-<h2>Hex Africa - Commercial work</h2>
-<h3>Price correction report - Back end example</h3>
+<h2>Work Done during Occupation @ Hex Africa</h2>
+<h3>Outdated Pricing Report</h3>
 <table>
   <tbody>
     <tr>
@@ -7,7 +7,7 @@
         <p>Requirement</p>
       </td>
       <td>
-        <p>This helps tour operators to keep track of the supplier pricing information that needs updating in their system.</p>
+        <p>The goal was to build a feature to report on if prices needed correcting or not.</p>
       </td>
     </tr>
     <tr>
@@ -28,7 +28,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Booking dashboard template - Back end example</h3>
+<h3>Travel Plans Booking System</h3>
 <table>
   <tbody>
     <tr>
@@ -36,7 +36,7 @@
         <p>Requirement</p>
       </td>
       <td>
-        <p>This will help tour operators to customize trips for their clients.</p>
+        <p>The goal here was to to make a system that tour operator consultants could use to book trips for their clients.</p>
       </td>
     </tr>
     <tr>
@@ -144,7 +144,7 @@
     </tr>
   </tbody>
 </table>
-<h2>Amibe - Commercial work</h2>
+<h2>Work Done during Occupation @ Amibe</h2>
 <h3>Radiological Society of South Africa Website</h3>
 <table>
   <tbody>
@@ -174,7 +174,7 @@
     </tr>
   </tbody>
 </table>
-<h2>Course work/Personal Projects</h2>
+<h2>Work Done during Studies</h2>
 <h3>JavaScript Font Swapper</h3>
 <table>
   <tbody>
