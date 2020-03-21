@@ -1,11 +1,16 @@
 ## Hex Africa - Commercial work
 
-### Price correction report - Back end example
-> This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
+|   |   |   |   |   |
+|---|---|---|---|---|
+| ### Price correction report - Back end example  |  > This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
+ |  <a href="price-correction-report/">Rendition</a> | Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.  |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
-<a href="price-correction-report/">Rendition</a>
 
-Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.
+
+
+
 
 ### Booking dashboard template - Back end example
 > This will help tour operators to customize trips for their clients.
