@@ -23,7 +23,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="price-correction-report/">Rendition</a></p>
+        <p><a href="price-correction-report/1.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
@@ -52,7 +52,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="booking-dashboard-template/">Rendition</a></p>
+        <p><a href="booking-dashboard-template/1.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
@@ -81,7 +81,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="invoice-template/">Rendition</a></p>
+        <p><a href="invoice-template/1.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
