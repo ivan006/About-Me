@@ -81,7 +81,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="invoice-template/1.png">Screenshot</a></p>
+        <p><a href="invoice-template/3.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
