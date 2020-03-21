@@ -1,14 +1,10 @@
 ## Hex Africa - Commercial work
 
-<table class="tg">
+<table>
   <tr>
     <td>
-      wwd
+      sss
     </td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">awd</td>
-    <td class="tg-0pky">dwa</td>
-    <td class="tg-0pky">wad</td>
   </tr>
   <tr>
     <td class="tg-0pky">wwd</td>
