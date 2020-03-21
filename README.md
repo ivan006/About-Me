@@ -1,15 +1,7 @@
+<h2>Hex Africa - Commercial work</h2>
+<h3>Price correction report - Back end example</h3>
 <table>
 <tbody>
-<tr>
-<td colspan="2">
-<h2>Hex Africa - Commercial work</h2>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3>Price correction report - Back end example</h3>
-</td>
-</tr>
 <tr>
 <td>
 <p>Requirement</p>
@@ -34,11 +26,11 @@
 <p>&lt;a href="price-correction-report/"&gt;Rendition&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h3>Booking dashboard template - Back end example</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
@@ -63,11 +55,11 @@
 <p>&lt;a href="booking-dashboard-template/"&gt;Rendition&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h3>Invoice template - Front end example</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
@@ -92,11 +84,11 @@
 <p>&lt;a href="invoice-template/"&gt;Rendition&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h3>Trip quote template - Front end example</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
@@ -121,11 +113,11 @@
 <p>&lt;a href="quote-template/"&gt;Rendition&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h3>Report builder template - Front end example</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
@@ -150,16 +142,12 @@
 <p>&lt;a href="report-builder/"&gt;Rendition&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h2>Amibe - Commercial work</h2>
-</td>
-</tr>
-<tr>
-<td colspan="2">
 <h3>Radiological Society of South Africa Website</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
@@ -184,16 +172,12 @@
 <p>&lt;a href="https://rssa.co.za/"&gt;Demo&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h2>Course work/Personal Projects</h2>
-</td>
-</tr>
-<tr>
-<td colspan="2">
 <h3>JavaScript Font Swapper</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
@@ -218,11 +202,11 @@
 <p>&lt;a href="https://github.com/ivan006/font-picker-pigeon"&gt;Source code&lt;/a&gt;</p>
 </td>
 </tr>
-<tr>
-<td colspan="2">
+</tbody>
+</table>
 <h3>Flex-report</h3>
-</td>
-</tr>
+<table>
+<tbody>
 <tr>
 <td>
 <p>Requirement</p>
