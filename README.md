@@ -169,7 +169,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="https://rssa.co.za/">Demo</a></p>
+        <p><a href="https://rssa.co.za/">Live Website</a></p>
       </td>
     </tr>
   </tbody>
@@ -199,7 +199,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="https://github.com/ivan006/font-picker-pigeon">Source code</a></p>
+        <p><a href="https://github.com/ivan006/font-picker-pigeon">Code</a></p>
       </td>
     </tr>
   </tbody>
@@ -228,7 +228,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Source code</a></p>
+        <p><a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">Code</a></p>
       </td>
     </tr>
   </tbody>
