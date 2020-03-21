@@ -23,7 +23,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="price-correction-report/1.png">Screenshot</a></p>
+        <p><a href="price-correction-report/2.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
