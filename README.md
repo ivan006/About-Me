@@ -110,7 +110,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="quote-template/">Rendition</a></p>
+        <p><a href="quote-template/1.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
@@ -139,7 +139,7 @@
         <p>Links</p>
       </td>
       <td>
-        <p><a href="report-builder/">Rendition</a></p>
+        <p><a href="report-builder/1.png">Screenshot</a></p>
       </td>
     </tr>
   </tbody>
