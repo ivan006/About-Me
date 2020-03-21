@@ -124,21 +124,6 @@
       <a href="https://rssa.co.za/">Demo</a>
     </td>
   </tr>
-  <tr>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
-  </tr>
-
 </table>
 
 
