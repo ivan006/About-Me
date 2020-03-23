@@ -6,6 +6,14 @@
 </td>
 </tr>
 <tr>
+<td>
+<p>Reading recommendation</p>
+</td>
+<td>
+<p>To easily access all the appendages please see my project online here <a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/">https://ivan006.github.io/Ivan-Copelands-Portfolio/</a> .</p>
+</td>
+</tr>
+<tr>
 <td colspan="2">
 <h2>Projects During Occupation @ Hex Africa</h2>
 </td>
@@ -33,7 +41,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png</a>&nbsp;</p>
@@ -62,7 +70,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png</a>&nbsp;</p>
@@ -91,7 +99,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/invoice-template/3.png">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/invoice-template/3.png</a>&nbsp;</p>
@@ -124,7 +132,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/quote-template/1.png">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/quote-template/1.png</a>&nbsp;</p>
@@ -154,7 +162,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/report-builder/1.png">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/report-builder/1.png</a>&nbsp;</p>
@@ -188,7 +196,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://rssa.co.za/">https://rssa.co.za/</a>&nbsp;</p>
@@ -226,7 +234,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/font-picker-pigeon">https://github.com/ivan006/font-picker-pigeon</a>&nbsp;</p>
@@ -255,7 +263,7 @@
 </tr>
 <tr>
 <td>
-<p>More info</p>
+<p>Appendage</p>
 </td>
 <td>
 <p><a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production">https://github.com/ivan006/Flexi-merce-SQL-DB-Production</a>&nbsp;</p>
