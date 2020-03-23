@@ -145,10 +145,9 @@
 </td>
 </tr>
 <tr>
-<td>
+<td colspan="2">
 <h5>Report wizard template</h5>
 </td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>
@@ -282,5 +281,4 @@
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
