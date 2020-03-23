@@ -10,7 +10,7 @@
 <p>Reading recommendation</p>
 </td>
 <td>
-<p>To easily access all the appendages please see my project online here <a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/">https://ivan006.github.io/Ivan-Copelands-Portfolio/</a> .</p>
+<p>If you are not already doing so please see my project online here <a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/">https://ivan006.github.io/Ivan-Copelands-Portfolio/</a> in order to easily access all the appendages.</p>
 </td>
 </tr>
 <tr>
