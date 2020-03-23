@@ -16,7 +16,7 @@
         <p>Solution</p>
       </td>
       <td>
-        <p>Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.</p>
+        <p>This solution, like all the solutions I built at Hex Africa, was built into a CodeIgniter app. It uses the Datatables plugin and simple SQL joins.</p>
       </td>
     </tr>
     <tr>
@@ -29,7 +29,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Travel Plans Booking System</h3>
+<h3>Travel Plans Booking System and List</h3>
 <table>
   <tbody>
     <tr>
@@ -37,7 +37,7 @@
         <p>Requirement</p>
       </td>
       <td>
-        <p>The goal here was to to make a system that tour operator consultants could use to book trips for their clients.</p>
+        <p>The goal here was to make a system that tour operator consultants could use to book trips for their clients.</p>
       </td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
         <p>Solution</p>
       </td>
       <td>
-        <p>I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and&nbsp; "Recent bookings" lists that are located in the right sidebar.</p>
+        <p>This solution was mostly built by another developer however I did contribute to this by 1. Developing the template for the calendar (as seen in the screenshot) and 2. Fully developing the “Soon to travel” list.</p>
       </td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Invoice template - Front end example</h3>
+<h3>Invoice template</h3>
 <table>
   <tbody>
     <tr>
@@ -66,7 +66,7 @@
         <p>Requirement</p>
       </td>
       <td>
-        <p>This invoice will be sent to travellers for them to pay for their lovely trips.</p>
+        <p>The goal here was to create an HTML template for an invoice.</p>
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@
         <p>Solution</p>
       </td>
       <td>
-        <p>I made with some stylistic advice from my boss, I made sure that it was completely PDF friendly.</p>
+        <p>The solution made use of Bootstrap and some utility-first custom CSS rules that I made.</p>
       </td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Trip quote template - Front end example</h3>
+<h3>Travel quote template</h3>
 <table>
   <tbody>
     <tr>
@@ -95,7 +95,7 @@
         <p>Requirement</p>
       </td>
       <td>
-        <p>This quote will be sent to prospective travellers in order to persuade them into taking the best trip they could ever imagine.</p>
+        <p>The goal here was to make the template for a travel quote.</p>
       </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
         <p>Solution</p>
       </td>
       <td>
-        <p>I developed this with stylistic input from others.</p>
+        <p>The solution uses utility-first CSS and Bootstrap.</p>
       </td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@
     </tr>
   </tbody>
 </table>
-<h3>Report builder template - Front end example</h3>
+<h3>Report wizard template</h3>
 <table>
   <tbody>
     <tr>
@@ -124,7 +124,7 @@
         <p>Requirement</p>
       </td>
       <td>
-        <p>This report generating wizard will help tour operators answer questions they have about current and past business activities.</p>
+        <p>The goal here was to make an HTML template for report generating wizards.</p>
       </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@
         <p>Solution</p>
       </td>
       <td>
-        <p>I developed this from a brief.</p>
+        <p>The solution uses utility-first CSS and Bootstrap and a bit of JavaScript.</p>
       </td>
     </tr>
     <tr>
