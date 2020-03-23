@@ -1,5 +1,3 @@
-<h1>Ivan Copeland's Projects</h1>
-
 <table>
 <tbody>
 <tr>
