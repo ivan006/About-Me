@@ -2,7 +2,7 @@
 <tbody>
 <tr>
 <td colspan="2">
-<h1>Projects</h1>
+<p>Projects</p>
 </td>
 </tr>
 <tr>
@@ -15,12 +15,12 @@
 </tr>
 <tr>
 <td colspan="2">
-<h2>Projects During Occupation @ Hex Africa</h2>
+<h2>Projects during occupation @ Hex Africa</h2>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h3>Outdated Pricing Report</h3>
+<h3>Outdated pricing report</h3>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<h3>Travel Plans Booking System and List</h3>
+<h3>Travel plans booking system and list</h3>
 </td>
 </tr>
 <tr>
@@ -106,8 +106,14 @@
 </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan="2">
+<p>Projects (cont.)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h2>Projects during occupation @ Hex Africa (cont.)</h2>
+</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -170,12 +176,12 @@
 </tr>
 <tr>
 <td colspan="2">
-<h2>Projects During Occupation @ Amibe</h2>
+<h2>Projects during occupation @ Amibe</h2>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h3>Radiological Society of South Africa Website</h3>
+<h3>Radiological Society of South Africa website</h3>
 </td>
 </tr>
 <tr>
@@ -203,12 +209,17 @@
 </td>
 </tr>
 <tr>
-<td><br /><br /><br /><br /><br /><br /></td>
+<td><br /><br /><br /></td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">
-<h2>Projects During Studies @ Udemy</h2>
+<p>Projects (cont.)</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h2>Projects during studies @ Udemy</h2>
 </td>
 </tr>
 <tr>
