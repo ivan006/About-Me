@@ -2,260 +2,272 @@
 <tbody>
 <tr>
 <td colspan="2">
-<h1><span style="font-weight: 400;">Portfolio</span></h1>
-</td>
-<td>
-<p><strong>For best reading see</strong></p>
-</td>
-<td>
-<p><a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/"><span style="font-weight: 400;">https://ivan006.github.io/Ivan-Copelands-Portfolio/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<h2><span style="font-weight: 400;">Hex Africa</span></h2>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Pricing report</span></h3>
-</td>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Travel plans booking system and list</span></h3>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Requirement</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">The requirement was to build a feature to report on if prices needed correcting or not.</span></p>
-</td>
-<td>
-<p><strong>Requirement</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">The requirement here was to make a system that tour operator consultants could use to book trips for their clients.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Solution</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">This solution, like all the solutions I built at Hex Africa, was built into a CodeIgniter app. It uses the Datatables plugin and simple SQL joins.</span></p>
-</td>
-<td>
-<p><strong>Solution</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">This solution was mostly built by another developer however I did contribute to this by 1. Developing the template for the calendar (as seen in the screenshot) and 2. Fully developing the &ldquo;Soon to travel&rdquo; list.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
-<td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Invoice template</span></h3>
-</td>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Travel quote template</span></h3>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Requirement</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">The requirement here was to create an HTML template for an invoice.</span></p>
-</td>
-<td>
-<p><strong>Requirement</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">The requirement here was to make the template for a travel quote.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Solution</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">The solution made use of Bootstrap and some utility-first custom CSS rules that I made.</span></p>
-</td>
-<td>
-<p><strong>Solution</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">The solution uses utility-first CSS and Bootstrap.</span></p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<ul>
-<li style="font-weight: 400;"><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/invoice-template/3.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/invoice-template/3.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-</ul>
-</td>
-<td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/quote-template/1.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/quote-template/1.png</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Report wizard template</span></h3>
+<h1><span style="font-weight: 400;">Overview</span></h1>
 </td>
 <td colspan="2">&nbsp;</td>
 </tr>
 <tr>
+<td colspan="2">
+<h2><span style="font-weight: 400;">Contact</span></h2>
+</td>
+<td colspan="2">
+<h2><span style="font-weight: 400;">About</span></h2>
+</td>
+</tr>
+<tr>
 <td>
-<p><strong>Requirement</strong></p>
+<p><strong>E-mail</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">The requirement here was to make an HTML template for report generating wizards.</span></p>
+<p><span style="font-weight: 400;">ivan.copeland2018@gmail.com</span></p>
 </td>
-<td>&nbsp;</td>
+<td>
+<p><strong>Profession</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Junior web developer</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Phone</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">062 808 1234</span></p>
+</td>
+<td>
+<p><strong>Total experience</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 years</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>My GitHub</strong></p>
+</td>
+<td>
+<p><a href="https://github.com/ivan006"><span style="font-weight: 400;">https://github.com/ivan006</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+</td>
+<td>
+<p><strong>Age</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">26</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>My Projects</strong></p>
+</td>
+<td>
+<p><a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/"><span style="font-weight: 400;">https://ivan006.github.io/Ivan-Copelands-Portfolio/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+</td>
+<td>
+<p><strong>Career goal</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Create meaningful solutions</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h2><span style="font-weight: 400;">Skills</span></h2>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3><span style="font-weight: 400;">Core</span></h3>
+</td>
+<td>
+<h3><span style="font-weight: 400;">Additional</span></h3>
+</td>
 <td>&nbsp;</td>
 </tr>
 <tr>
 <td>
-<p><strong>Solution</strong></p>
+<p><strong>HTML, CSS</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 years</span></p>
+</td>
+<td>
+<p><strong>CodeIgniter</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6 months</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>PHP, SQL, JavaScript</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6 months</span></p>
+</td>
+<td>
+<p><strong>Laravel</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1 month</span></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p><strong>Jquery</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6 months</span></p>
+</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>
+<p><strong>Bootstrap</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 years</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="4"><br /><br /><br /><br /><br /><br /><br /></td>
+</tr>
+<tr>
+<td colspan="4">
+<h1><span style="font-weight: 400;">Experience</span></h1>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h2><span style="font-weight: 400;">Amibe</span></h2>
+</td>
+<td colspan="2">
+<h2><span style="font-weight: 400;">Hex Africa</span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">May 2017 - Aug 2017 (4 Months)</span></p>
+</td>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Apr 2018 -&nbsp; Mar 2020 (2 Years)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Company</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Creator of small Wordpress websites</span></p>
+</td>
+<td>
+<p><strong>Company</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Creator of ERP systems</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Hard Skills</strong></p>
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The solution uses utility-first CSS and Bootstrap and a bit of JavaScript.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wordpress configurations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">CSS</span></li>
 </ul>
 </td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>
+<p><strong>Hard Skills</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">HTML, CSS (2 years)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">SQL, PHP, JavaScript (6 months</span></li>
+</ul>
+</td>
 </tr>
 <tr>
 <td>
-<p><strong>Appendage</strong></p>
+<p><strong>Soft Skills</strong></p>
 </td>
 <td>
-<p><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/report-builder/1.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/report-builder/1.png</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Self management</span></li>
+</ul>
 </td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td>
+<p><strong>Soft Skills</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Self management</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Time management</span></li>
+</ul>
+</td>
 </tr>
 <tr>
-<td colspan="4">
-<h1><span style="font-weight: 400;">Portfolio (cont.)</span></h1>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<h2><span style="font-weight: 400;">Amibe</span></h2>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Radiological Society of South Africa website</span></h3>
-</td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
-</tr>
-<tr>
 <td>
-<p><strong>Requirement</strong></p>
+<p><strong>Projects</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">A place to profile all the radiological society members and share industry news.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Price report - </span><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu - </span><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
 </td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>
-<p><strong>Solution</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">I did some maintenance on this site.</span></p>
-</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<p><a href="https://rssa.co.za/"><span style="font-weight: 400;">https://rssa.co.za/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td colspan="4">
-<h2><span style="font-weight: 400;">Udemy (course work)</span></h2>
+<h1><span style="font-weight: 400;">Education</span></h1>
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<h3><span style="font-weight: 400;">JavaScript Font Swapper</span></h3>
-</td>
-<td colspan="2">
-<h3><span style="font-weight: 400;">Flex-report</span></h3>
+<td colspan="4">
+<h2><span style="font-weight: 400;">Udemy.com</span></h2>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Requirement</strong></p>
+<p><strong>Duration</strong></p>
 </td>
-<td>
-<p><span style="font-weight: 400;">I developed this just to demonstrate my JavaScript skill.</span></p>
-</td>
-<td>
-<p><strong>Requirement</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">This is a pet project which aims to demonstrate how e-commerce systems can be much more flexible.</span></p>
+<td colspan="3">
+<p><span style="font-weight: 400;">Nov 2015 - Ongoing</span></p>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Solution</strong></p>
+<p><strong>Courses</strong></p>
 </td>
-<td>
-<p><span style="font-weight: 400;">It's based on VueJS.</span></p>
-</td>
-<td>
-<p><strong>Solution</strong></p>
-</td>
-<td>
-<p><span style="font-weight: 400;">This app uses Laravel and I developed every part of it.</span></p>
+<td colspan="3">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The Complete Web Developer Course - With Rob Percival</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PHP for Beginners - With Edwin Diaz</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PHP with Laravel for beginners - With Edwin Diaz</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">React - With Maximilian Schwarzm&uuml;ller</span></li>
+</ul>
 </td>
 </tr>
 <tr>
 <td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<p><a href="https://github.com/ivan006/font-picker-pigeon"><span style="font-weight: 400;">https://github.com/ivan006/font-picker-pigeon</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
-<td>
-<p><strong>Appendage</strong></p>
-</td>
-<td>
-<p><a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production"><span style="font-weight: 400;">https://github.com/ivan006/Flexi-merce-SQL-DB-Production</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><strong>Projects</strong></p>
+<br /><br /><br /><br /><br /><br /></td>
+<td colspan="3">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">JavaScript Font Swapper - </span><a href="https://github.com/ivan006/font-picker-pigeon"><span style="font-weight: 400;">https://github.com/ivan006/font-picker-pigeon</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flex-report - </span><a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production"><span style="font-weight: 400;">https://github.com/ivan006/Flexi-merce-SQL-DB-Production</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
 </td>
 </tr>
 </tbody>
