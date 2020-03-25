@@ -13,15 +13,15 @@
 </tr>
 <tr>
 <td colspan="4">
-<h3><span style="font-weight: 400;">Hex Africa</span></h3>
+<h2><span style="font-weight: 400;">Hex Africa</span></h2>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Pricing report</span></h4>
+<h3><span style="font-weight: 400;">Pricing report</span></h3>
 </td>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Travel plans booking system and list</span></h4>
+<h3><span style="font-weight: 400;">Travel plans booking system and list</span></h3>
 </td>
 </tr>
 <tr>
@@ -68,10 +68,10 @@
 </tr>
 <tr>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Invoice template</span></h4>
+<h3><span style="font-weight: 400;">Invoice template</span></h3>
 </td>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Travel quote template</span></h4>
+<h3><span style="font-weight: 400;">Travel quote template</span></h3>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Report wizard template</span></h4>
+<h3><span style="font-weight: 400;">Report wizard template</span></h3>
 </td>
 <td colspan="2">&nbsp;</td>
 </tr>
@@ -163,12 +163,12 @@
 </tr>
 <tr>
 <td colspan="4">
-<h3><span style="font-weight: 400;">Amibe</span></h3>
+<h2><span style="font-weight: 400;">Amibe</span></h2>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Radiological Society of South Africa website</span></h4>
+<h3><span style="font-weight: 400;">Radiological Society of South Africa website</span></h3>
 </td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
@@ -205,15 +205,15 @@
 </tr>
 <tr>
 <td colspan="4">
-<h3><span style="font-weight: 400;">Udemy (course work)</span></h3>
+<h2><span style="font-weight: 400;">Udemy (course work)</span></h2>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h4><span style="font-weight: 400;">JavaScript Font Swapper</span></h4>
+<h3><span style="font-weight: 400;">JavaScript Font Swapper</span></h3>
 </td>
 <td colspan="2">
-<h4><span style="font-weight: 400;">Flex-report</span></h4>
+<h3><span style="font-weight: 400;">Flex-report</span></h3>
 </td>
 </tr>
 <tr>
@@ -260,4 +260,4 @@
 </tr>
 </tbody>
 </table>
-<p><br /><br /></p>
+<p>&nbsp;</p>
