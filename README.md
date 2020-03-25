@@ -262,7 +262,7 @@
 <tr>
 <td>
 <p>Projects</p>
-<br /><br /><br /><br /><br /><br /></td>
+</td>
 <td colspan="3">
 <ul>
 <li>JavaScript Font Swapper - <a href="https://github.com/ivan006/font-picker-pigeon">https://github.com/ivan006/font-picker-pigeon</a>&nbsp;</li>
