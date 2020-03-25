@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<h5>Outdated pricing report</h5>
+<h5>Pricing report</h5>
 </td>
 <td colspan="2">
 <h5>Travel plans booking system and list</h5>
