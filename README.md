@@ -1,48 +1,266 @@
-
-
-## Back end example 
-
-
-### Price correction report
-> This helps tour operators to keep track of the supplier pricing information that needs updating in their system.
-
-<a href="price-correction-report/">Click here</a>
-
-Here I developed the business logic and template. The data loads through ajax in order to avoid page reloads when browsing the price correction list.
-
-### Booking dashboard template
-> This will help tour operators to customize trips for their clients.
-
-<a href="booking-dashboard-template/">Click here</a>
-
-I helped to develop this template. I also helped with some of the back end functionality. The back end functionality specifically was the "Soon to travel" and  "Recent bookings" lists that are located in the right sidebar.
-
-## Front end examples
-
-### Invoice template
-> This invoice will be sent to travellers for them to pay for their lovely trips.
-
-<a href="invoice-template/">Click here</a>
-
-I made with some stylistic advice from my boss, I made sure that it was completely PDF friendly.
-
-### Trip quote template
-> This quote will be sent to prospective travellers in order to persuade them into taking the best trip they could ever imagine.
-
-<a href="quote-template/">Click here</a>
-
-I developed this with stylistic input from others.
-
-### Report builder template
-> This report generating wizard will help tour operators answer questions they have about current and past business activities.
-
-<a href="report-builder/">Click here</a>
-
-I developed this from a brief.
-
-### Radiological Society of South Africa Website
-> A place to profile all the radiological society members and share industry news.
-
-<a href="https://rssa.co.za/">Click here</a>
-
-I did some maintenance on this site.
+<img src="" style="text-align:center;>
+<table>
+<tbody>
+<tr>
+<td colspan="4">
+<h1><span style="font-weight: 400;">Overview</span></h1>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h2><span style="font-weight: 400;">Contact</span></h2>
+</td>
+<td colspan="2">
+<h2><span style="font-weight: 400;">About</span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>E-mail</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">ivan.copeland2018@gmail.com</span></p>
+</td>
+<td>
+<p><strong>Profession</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Junior web developer</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Phone</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">062 808 1234</span></p>
+</td>
+<td>
+<p><strong>Total experience</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 years</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>My GitHub</strong></p>
+</td>
+<td>
+<p><a href="https://github.com/ivan006"><span style="font-weight: 400;">https://github.com/ivan006</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+</td>
+<td>
+<p><strong>Age</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">26</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+<td>
+<p><strong>Career goal</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Create meaningful solutions</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h2><span style="font-weight: 400;">Skills</span></h2>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3><span style="font-weight: 400;">Core</span></h3>
+</td>
+<td>
+<h3><span style="font-weight: 400;">Additional</span></h3>
+</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<p><strong>HTML, CSS</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 years</span></p>
+</td>
+<td>
+<p><strong>CodeIgniter</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6 months</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>PHP, SQL, JavaScript</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6 months</span></p>
+</td>
+<td>
+<p><strong>Laravel</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">1 month</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">&nbsp;</td>
+<td>
+<p><strong>Jquery</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">6 months</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Bootstrap</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">2 years</span></p>
+</td>
+</tr>
+<tr>
+<td colspan="4"><br /><br /><br /><br /><br /><br /><br /><br /></td>
+</tr>
+<tr>
+<td colspan="4">
+<h1><span style="font-weight: 400;">Experience</span></h1>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h2><span style="font-weight: 400;">Amibe</span></h2>
+</td>
+<td colspan="2">
+<h2><span style="font-weight: 400;">Hex Africa</span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">May 2017 - Aug 2017 (4 Months)</span></p>
+</td>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Apr 2018 -&nbsp; Mar 2020 (2 Years)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Company</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Creator of small Wordpress websites</span></p>
+</td>
+<td>
+<p><strong>Company</strong></p>
+</td>
+<td>
+<p><span style="font-weight: 400;">Creator of ERP systems</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Hard Skills</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wordpress configurations</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">CSS</span></li>
+</ul>
+</td>
+<td>
+<p><strong>Hard Skills</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">HTML, CSS (2 years)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">SQL, PHP, JavaScript (6 months</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Soft Skills</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Self management</span></li>
+</ul>
+</td>
+<td>
+<p><strong>Soft Skills</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Self management</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Time management</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+<td>
+<p><strong>Projects</strong></p>
+</td>
+<td>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Price report - </span><a href="https://github.com/ivan006/About-Me/blob/master/price-report.png"><span style="font-weight: 400;">https://github.com/ivan006/About-Me/blob/master/price-report.png</span></a><span style="font-weight: 400;">&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu - </span><a href="https://github.com/ivan006/About-Me/blob/master/booking-menu.png"><span style="font-weight: 400;">https://github.com/ivan006/About-Me/blob/master/booking-menu.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h1><span style="font-weight: 400;">Education</span></h1>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h2><span style="font-weight: 400;">Udemy.com</span></h2>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td colspan="3">
+<p><span style="font-weight: 400;">Nov 2015 - May 2017 (1 yr 7 mo)</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Courses</strong></p>
+</td>
+<td colspan="3">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The Complete Web Developer Course - With Rob Percival</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PHP for Beginners - With Edwin Diaz</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PHP with Laravel for beginners - With Edwin Diaz</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">React - With Maximilian Schwarzm&uuml;ller</span></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Projects</strong></p>
+</td>
+<td colspan="3">
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Firebase Inspired Form - </span><a href="https://github.com/ivan006/Firebase-Inspired-Form"><span style="font-weight: 400;">https://github.com/ivan006/Firebase-Inspired-Form</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">FlexFile - </span><a href="https://github.com/ivan006/FlexFile-2b"><span style="font-weight: 400;">https://github.com/ivan006/FlexFile-2b</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
