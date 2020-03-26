@@ -1,10 +1,10 @@
+<img src="" style="text-align:center;>
 <table>
 <tbody>
 <tr>
-<td colspan="2">
+<td colspan="4">
 <h1><span style="font-weight: 400;">Overview</span></h1>
 </td>
-<td colspan="2">&nbsp;</td>
 </tr>
 <tr>
 <td colspan="2">
@@ -57,12 +57,7 @@
 </td>
 </tr>
 <tr>
-<td>
-<p><strong>My Projects</strong></p>
-</td>
-<td>
-<p><a href="https://ivan006.github.io/Ivan-Copelands-Portfolio/"><span style="font-weight: 400;">https://ivan006.github.io/Ivan-Copelands-Portfolio/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
-</td>
+<td colspan="2">&nbsp;</td>
 <td>
 <p><strong>Career goal</strong></p>
 </td>
@@ -113,8 +108,7 @@
 </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan="2" rowspan="2">&nbsp;</td>
 <td>
 <p><strong>Jquery</strong></p>
 </td>
@@ -123,8 +117,6 @@
 </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
 <td>
 <p><strong>Bootstrap</strong></p>
 </td>
@@ -133,7 +125,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="4"><br /><br /><br /><br /><br /><br /><br /></td>
+<td colspan="4"><br /><br /><br /><br /><br /><br /><br /><br /></td>
 </tr>
 <tr>
 <td colspan="4">
@@ -216,15 +208,14 @@
 </td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td colspan="2">&nbsp;</td>
 <td>
 <p><strong>Projects</strong></p>
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Price report - </span><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/price-correction-report/3.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu - </span><a href="https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png"><span style="font-weight: 400;">https://github.com/ivan006/Ivan-Copelands-Portfolio/blob/master/booking-dashboard-template/2.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Price report - </span><a href="https://github.com/ivan006/About-Me/blob/master/price-report.png"><span style="font-weight: 400;">https://github.com/ivan006/About-Me/blob/master/price-report.png</span></a><span style="font-weight: 400;">&nbsp;&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu - </span><a href="https://github.com/ivan006/About-Me/blob/master/booking-menu.png"><span style="font-weight: 400;">https://github.com/ivan006/About-Me/blob/master/booking-menu.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 </ul>
 </td>
 </tr>
@@ -243,7 +234,7 @@
 <p><strong>Duration</strong></p>
 </td>
 <td colspan="3">
-<p><span style="font-weight: 400;">Nov 2015 - Ongoing</span></p>
+<p><span style="font-weight: 400;">Nov 2015 - May 2017 (1 yr 7 mo)</span></p>
 </td>
 </tr>
 <tr>
@@ -265,8 +256,8 @@
 </td>
 <td colspan="3">
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">JavaScript Font Swapper - </span><a href="https://github.com/ivan006/font-picker-pigeon"><span style="font-weight: 400;">https://github.com/ivan006/font-picker-pigeon</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Flex-report - </span><a href="https://github.com/ivan006/Flexi-merce-SQL-DB-Production"><span style="font-weight: 400;">https://github.com/ivan006/Flexi-merce-SQL-DB-Production</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Firebase Inspired Form - </span><a href="https://github.com/ivan006/Firebase-Inspired-Form"><span style="font-weight: 400;">https://github.com/ivan006/Firebase-Inspired-Form</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">FlexFile - </span><a href="https://github.com/ivan006/FlexFile-2b"><span style="font-weight: 400;">https://github.com/ivan006/FlexFile-2b</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 </ul>
 </td>
 </tr>
