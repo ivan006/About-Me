@@ -33,7 +33,7 @@
 <p><strong>Phone</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">062 808 1234</span></p>
+<p><span style="font-weight: 400;">(+27) 062 808 1234</span></p>
 </td>
 <td>
 <p><strong>Total experience</strong></p>
@@ -57,7 +57,12 @@
 </td>
 </tr>
 <tr>
-<td colspan="2">&nbsp;</td>
+<td>
+<p><strong>This CV Online</strong></p>
+</td>
+<td>
+<p><a href="https://ivan006.github.io/About-Me/"><span style="font-weight: 400;">https://ivan006.github.io/About-Me/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+</td>
 <td>
 <p><strong>Career goal</strong></p>
 </td>
@@ -184,7 +189,7 @@
 <td>
 <ul>
 <li style="font-weight: 400;"><span style="font-weight: 400;">HTML, CSS (2 years)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">SQL, PHP, JavaScript (6 months</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">SQL, PHP, JavaScript (6 months)</span></li>
 </ul>
 </td>
 </tr>
@@ -214,8 +219,10 @@
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Price report - </span><a href="https://github.com/ivan006/About-Me/blob/master/price-report.png"><span style="font-weight: 400;">https://github.com/ivan006/About-Me/blob/master/price-report.png</span></a><span style="font-weight: 400;">&nbsp;&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu - </span><a href="https://github.com/ivan006/About-Me/blob/master/booking-menu.png"><span style="font-weight: 400;">https://github.com/ivan006/About-Me/blob/master/booking-menu.png</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu [1]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Price report [2]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Productivity report [3]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Supplier Form [4]</span></li>
 </ul>
 </td>
 </tr>
@@ -256,13 +263,14 @@
 </td>
 <td colspan="3">
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Firebase Inspired Form - </span><a href="https://github.com/ivan006/Firebase-Inspired-Form"><span style="font-weight: 400;">https://github.com/ivan006/Firebase-Inspired-Form</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">FlexFile - </span><a href="https://github.com/ivan006/FlexFile-2b"><span style="font-weight: 400;">https://github.com/ivan006/FlexFile-2b</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">FlexFile [5] - </span><a href="https://github.com/ivan006/FlexFile-2b"><span style="font-weight: 400;">https://github.com/ivan006/FlexFile-2b</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Firebase Inspired Form [6] - </span><a href="https://github.com/ivan006/Firebase-Inspired-Form"><span style="font-weight: 400;">https://github.com/ivan006/Firebase-Inspired-Form</span></a><span style="font-weight: 400;">&nbsp;</span></li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-
+<p><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<h1><span style="font-weight: 400;">Footnotes</span></h1>
+<p><span style="font-weight: 400;">Renditions of the projects I have worked on.</span></p>
 <img style='display:block; width:100px;height:100px;' id='base64image' src='https://github.com/ivan006/About-Me/blob/master/files/collage.png' />
