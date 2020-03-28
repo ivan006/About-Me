@@ -273,4 +273,4 @@
 <p><br /><br /><br /><br /><br /><br /><br /><br /></p>
 <h1><span style="font-weight: 400;">Footnotes</span></h1>
 <p><span style="font-weight: 400;">Renditions of the projects I have worked on.</span></p>
-<img style='display:block; width:100px;height:100px;' src='https://github.com/ivan006/About-Me/blob/master/files/collage%202.png' />
+<img style='display:block; width:100px;height:100px;' src='https://raw.githubusercontent.com/ivan006/About-Me/master/files/collage%202.png' />
