@@ -1,220 +1,121 @@
-<img src="https://raw.githubusercontent.com/ivan006/About-Me/master/files/ivan-copeland.png" >
+<h1>Ivan Copeland</h1>
+<h2>Overview</h2>
 <table>
 <tbody>
 <tr>
-<td colspan="4">
-<h1>Overview</h1>
+<td>
+<h3>Contact</h3>
+<p>E-mail</p>
+<ul>
+<li>ivan.copeland2018@gmail.com</li>
+</ul>
+<p>Phone</p>
+<ul>
+<li>(+27) 062 808 1234</li>
+</ul>
+<p>My GitHub</p>
+<ul>
+<li>https://github.com/ivan006</li>
+</ul>
+<p>This CV Online</p>
+<ul>
+<li>https://ivan006.github.io/About-Me/</li>
+</ul>
+<h3>About</h3>
+<p>Profession</p>
+<ul>
+<li>Junior web developer</li>
+</ul>
+<p>Total experience</p>
+<ul>
+<li>2 years</li>
+</ul>
+<p>Age</p>
+<ul>
+<li>26</li>
+</ul>
+<p>Career goal</p>
+<ul>
+<li>Create meaningful solutions</li>
+</ul>
+</td>
+<td>
+<h3>Skills</h3>
+<h4>Core</h4>
+<p>HTML, CSS</p>
+<ul>
+<li>2 years</li>
+</ul>
+<p>PHP, SQL, JavaScript</p>
+<ul>
+<li>6 months</li>
+</ul>
+<h4>Additional</h4>
+<br />
+<p>CodeIgniter</p>
+<ul>
+<li>6 months</li>
+</ul>
+<p>Laravel</p>
+<ul>
+<li>1 month</li>
+</ul>
+<p>Jquery</p>
+<ul>
+<li>6 months</li>
+</ul>
+<p>Bootstrap</p>
+<ul>
+<li>2 years</li>
+</ul>
 </td>
 </tr>
-<tr>
-<td colspan="2">
-<h2>Contact</h2>
-</td>
-<td colspan="2">
-<h2>About</h2>
-</td>
-</tr>
+</tbody>
+</table>
+<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<h2>Experience</h2>
+<table>
+<tbody>
 <tr>
 <td>
-<p><strong>E-mail</strong></p>
-</td>
-<td>
-<p>ivan.copeland2018@gmail.com</p>
-</td>
-<td>
-<p><strong>Profession</strong></p>
-</td>
-<td>
-<p>Junior web developer</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Phone</strong></p>
-</td>
-<td>
-<p>(+27) 062 808 1234</p>
-</td>
-<td>
-<p><strong>Total experience</strong></p>
-</td>
-<td>
-<p>2 years</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>My GitHub</strong></p>
-</td>
-<td>
-<p><a href="https://github.com/ivan006">https://github.com/ivan006</a>&nbsp;</p>
-</td>
-<td>
-<p><strong>Age</strong></p>
-</td>
-<td>
-<p>26</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>This CV Online</strong></p>
-</td>
-<td>
-<p><a href="https://ivan006.github.io/About-Me/">https://ivan006.github.io/About-Me/</a>&nbsp;</p>
-</td>
-<td>
-<p><strong>Career goal</strong></p>
-</td>
-<td>
-<p>Create meaningful solutions</p>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<h2>Skills</h2>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h3>Core</h3>
-</td>
-<td>
-<h3>Additional</h3>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>HTML, CSS</strong></p>
-</td>
-<td>
-<p>2 years</p>
-</td>
-<td>
-<p><strong>CodeIgniter</strong></p>
-</td>
-<td>
-<p>6 months</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>PHP, SQL, JavaScript</strong></p>
-</td>
-<td>
-<p>6 months</p>
-</td>
-<td>
-<p><strong>Laravel</strong></p>
-</td>
-<td>
-<p>1 month</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Jquery</strong></p>
-</td>
-<td>
-<p>6 months</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Bootstrap</strong></p>
-</td>
-<td>
-<p>2 years</p>
-</td>
-</tr>
-<tr>
-<td colspan="4"><br /><br /><br /><br /><br /><br /><br /><br /></td>
-</tr>
-<tr>
-<td colspan="4">
-<h1>Experience</h1>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h2>Amibe</h2>
-</td>
-<td colspan="2">
-<h2>Hex Africa</h2>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Duration</strong></p>
-</td>
-<td>
-<p>May 2017 - Aug 2017 (4 Months)</p>
-</td>
-<td>
-<p><strong>Duration</strong></p>
-</td>
-<td>
-<p>Apr 2018 - Mar 2020 (2 Years)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Company</strong></p>
-</td>
-<td>
-<p>Creator of small Wordpress websites</p>
-</td>
-<td>
-<p><strong>Company</strong></p>
-</td>
-<td>
-<p>Creators of travel industry software</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Hard Skills</strong></p>
-</td>
-<td>
+<h3>Amibe</h3>
+<p>Duration</p>
+<ul>
+<li>May 2017 - Aug 2017 (4 Months)</li>
+</ul>
+<p>Company</p>
+<ul>
+<li>Creator of small Wordpress websites</li>
+</ul>
+<p>Hard Skills</p>
 <ul>
 <li>Wordpress configurations</li>
 <li>CSS</li>
 </ul>
-</td>
-<td>
-<p><strong>Hard Skills</strong></p>
-</td>
-<td>
+<p>Soft Skills</p>
+<ul>
+<li>Self management</li>
+</ul>
+<h3>Hex Africa</h3>
+<p>Duration</p>
+<ul>
+<li>Apr 2018 - Mar 2020 (2 Years)</li>
+</ul>
+<p>Company</p>
+<ul>
+<li>Creators of travel industry software</li>
+</ul>
+<p>Hard Skills</p>
 <ul>
 <li>HTML, CSS (2 years)</li>
 <li>SQL, PHP, JavaScript (6 months)</li>
 </ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Soft Skills</strong></p>
-</td>
-<td>
-<ul>
-<li>Self management</li>
-</ul>
-</td>
-<td>
-<p><strong>Soft Skills</strong></p>
-</td>
-<td>
+<p>Soft Skills</p>
 <ul>
 <li>Self management</li>
 <li>Time management</li>
 </ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Projects</strong></p>
-</td>
-<td>
+<p>Projects</p>
 <ul>
 <li>Booking menu [1]</li>
 <li>Price report [2]</li>
@@ -222,101 +123,73 @@
 <li>Supplier Form [4]</li>
 </ul>
 </td>
-</tr>
-<tr>
-<td colspan="2">
-<h2>Hangar49</h2>
-</td>
-</tr>
-<tr>
 <td>
-<p><strong>Duration</strong></p>
-</td>
-<td>
-<p>Mid May 2020 - Mid July 2020 (2 Months)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Basis</strong></p>
-</td>
-<td>
-<p>Short term project basis</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Company</strong></p>
-</td>
-<td>
-<p>Creator of email marketing solutions</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Hard Skills</strong></p>
-</td>
-<td>
+<h3>Hangar49</h3>
+<p>Duration</p>
+<ul>
+<li>Mid May 2020 - Mid July 2020 (2 Months)</li>
+</ul>
+<p>Basis</p>
+<ul>
+<li>Short term project basis</li>
+</ul>
+<p>Company</p>
+<ul>
+<li>Creator of email marketing solutions</li>
+</ul>
+<p>Hard Skills</p>
 <ul>
 <li>Linux servers</li>
 <li>PHP</li>
 <li>Mail agent infrastructure</li>
 </ul>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Soft Skills</strong></p>
-</td>
-<td>
+<p>Soft Skills</p>
 <ul>
 <li>Self management</li>
 </ul>
 </td>
 </tr>
-<tr>
-<td colspan="4">
-<h1>Education</h1>
-</td>
-</tr>
-<tr>
-<td colspan="2">
-<h2>Technical @ Udemy.com</h2>
-</td>
-<td colspan="2">
-<h2>Matric @ Valley Tutor Center</h2>
-</td>
-</tr>
+</tbody>
+</table>
+<p><br /><br /><br /><br /><br /><br /><br /></p>
+<h2>Education</h2>
+<table>
+<tbody>
 <tr>
 <td>
-<p><strong>Duration</strong></p>
-</td>
-<td>
-<p>Nov 2015 - May 2017 (1 yr 7 mo)</p>
-</td>
-<td>
-<p><strong>Duration</strong></p>
-</td>
-<td>
-<p>2010 - 2013</p>
-</td>
-</tr>
-<tr>
-<td>
-<p><strong>Courses</strong></p>
-</td>
-<td>
+<h3>Secondary</h3>
+<p>Institution</p>
+<ul>
+<li>Valley Tutor Center</li>
+</ul>
+<p>Duration</p>
+<ul>
+<li>Nov 2015 - May 2017 (1 yr 7 mo)</li>
+</ul>
+<p>Courses</p>
 <ul>
 <li>The Complete Web Developer Course - With Rob Percival</li>
 <li>PHP for Beginners - With Edwin Diaz</li>
 <li>PHP with Laravel for beginners - With Edwin Diaz</li>
 <li>React - With Maximilian Schwarzm&uuml;ller</li>
 </ul>
+<p>Projects</p>
+<ul>
+<li>FlexFile [5] - https://github.com/ivan006/FlexFile-2b</li>
+<li>Firebase Inspired Form [6] - https://github.com/ivan006/Firebase-Inspired-Form</li>
+</ul>
 </td>
 <td>
-<p><strong>Courses</strong></p>
-</td>
-<td>
+<h3>Tertiary</h3>
+<p>Institution</p>
+<ul>
+<li>Udemy.com</li>
+</ul>
+<p>Duration</p>
+<ul>
+<li>2010 - 2013</li>
+</ul>
+<p>Courses</p>
 <ul>
 <li>Physics A level</li>
 <li>English AS level</li>
@@ -327,20 +200,12 @@
 </ul>
 </td>
 </tr>
-<tr>
-<td>
-<p><strong>Projects</strong></p>
-</td>
-<td>
-<ul>
-<li>FlexFile [5] - <a href="https://github.com/ivan006/FlexFile-2b">https://github.com/ivan006/FlexFile-2b</a>&nbsp;</li>
-<li>Firebase Inspired Form [6] - <a href="https://github.com/ivan006/Firebase-Inspired-Form">https://github.com/ivan006/Firebase-Inspired-Form</a>&nbsp;</li>
-</ul>
-</td>
-</tr>
 </tbody>
 </table>
-<p><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<p><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></p>
+<h2>Footnotes</h2>
+<p>Renditions of the projects I have worked on (portfolio).</p>
+
 <h1><span style="font-weight: 400;">Footnotes</span></h1>
 <p><span style="font-weight: 400;">Renditions of the projects I have worked on.</span></p>
 <img src='https://raw.githubusercontent.com/ivan006/About-Me/master/files/collage%202.png' />
