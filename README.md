@@ -3,15 +3,15 @@
 <tbody>
 <tr>
 <td colspan="4">
-<h1><span style="font-weight: 400;">Overview</span></h1>
+<h1>Overview</h1>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h2><span style="font-weight: 400;">Contact</span></h2>
+<h2>Contact</h2>
 </td>
 <td colspan="2">
-<h2><span style="font-weight: 400;">About</span></h2>
+<h2>About</h2>
 </td>
 </tr>
 <tr>
@@ -19,13 +19,13 @@
 <p><strong>E-mail</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">ivan.copeland2018@gmail.com</span></p>
+<p>ivan.copeland2018@gmail.com</p>
 </td>
 <td>
 <p><strong>Profession</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Junior web developer</span></p>
+<p>Junior web developer</p>
 </td>
 </tr>
 <tr>
@@ -33,13 +33,13 @@
 <p><strong>Phone</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">(+27) 062 808 1234</span></p>
+<p>(+27) 062 808 1234</p>
 </td>
 <td>
 <p><strong>Total experience</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">2 years</span></p>
+<p>2 years</p>
 </td>
 </tr>
 <tr>
@@ -47,13 +47,13 @@
 <p><strong>My GitHub</strong></p>
 </td>
 <td>
-<p><a href="https://github.com/ivan006"><span style="font-weight: 400;">https://github.com/ivan006</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><a href="https://github.com/ivan006">https://github.com/ivan006</a>&nbsp;</p>
 </td>
 <td>
 <p><strong>Age</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">26</span></p>
+<p>26</p>
 </td>
 </tr>
 <tr>
@@ -61,41 +61,40 @@
 <p><strong>This CV Online</strong></p>
 </td>
 <td>
-<p><a href="https://ivan006.github.io/About-Me/"><span style="font-weight: 400;">https://ivan006.github.io/About-Me/</span></a><span style="font-weight: 400;">&nbsp;</span></p>
+<p><a href="https://ivan006.github.io/About-Me/">https://ivan006.github.io/About-Me/</a>&nbsp;</p>
 </td>
 <td>
 <p><strong>Career goal</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Create meaningful solutions</span></p>
+<p>Create meaningful solutions</p>
 </td>
 </tr>
 <tr>
 <td colspan="4">
-<h2><span style="font-weight: 400;">Skills</span></h2>
+<h2>Skills</h2>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h3><span style="font-weight: 400;">Core</span></h3>
+<h3>Core</h3>
 </td>
 <td>
-<h3><span style="font-weight: 400;">Additional</span></h3>
+<h3>Additional</h3>
 </td>
-<td>&nbsp;</td>
 </tr>
 <tr>
 <td>
 <p><strong>HTML, CSS</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">2 years</span></p>
+<p>2 years</p>
 </td>
 <td>
 <p><strong>CodeIgniter</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">6 months</span></p>
+<p>6 months</p>
 </td>
 </tr>
 <tr>
@@ -103,22 +102,21 @@
 <p><strong>PHP, SQL, JavaScript</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">6 months</span></p>
+<p>6 months</p>
 </td>
 <td>
 <p><strong>Laravel</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">1 month</span></p>
+<p>1 month</p>
 </td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2">&nbsp;</td>
 <td>
 <p><strong>Jquery</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">6 months</span></p>
+<p>6 months</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +124,7 @@
 <p><strong>Bootstrap</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">2 years</span></p>
+<p>2 years</p>
 </td>
 </tr>
 <tr>
@@ -134,15 +132,15 @@
 </tr>
 <tr>
 <td colspan="4">
-<h1><span style="font-weight: 400;">Experience</span></h1>
+<h1>Experience</h1>
 </td>
 </tr>
 <tr>
 <td colspan="2">
-<h2><span style="font-weight: 400;">Amibe</span></h2>
+<h2>Amibe</h2>
 </td>
 <td colspan="2">
-<h2><span style="font-weight: 400;">Hex Africa</span></h2>
+<h2>Hex Africa</h2>
 </td>
 </tr>
 <tr>
@@ -150,13 +148,13 @@
 <p><strong>Duration</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">May 2017 - Aug 2017 (4 Months)</span></p>
+<p>May 2017 - Aug 2017 (4 Months)</p>
 </td>
 <td>
 <p><strong>Duration</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Apr 2018 -&nbsp; Mar 2020 (2 Years)</span></p>
+<p>Apr 2018 - Mar 2020 (2 Years)</p>
 </td>
 </tr>
 <tr>
@@ -164,13 +162,13 @@
 <p><strong>Company</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Creator of small Wordpress websites</span></p>
+<p>Creator of small Wordpress websites</p>
 </td>
 <td>
 <p><strong>Company</strong></p>
 </td>
 <td>
-<p><span style="font-weight: 400;">Creator of ERP systems</span></p>
+<p>Creators of travel industry software</p>
 </td>
 </tr>
 <tr>
@@ -179,8 +177,8 @@
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Wordpress configurations</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">CSS</span></li>
+<li>Wordpress configurations</li>
+<li>CSS</li>
 </ul>
 </td>
 <td>
@@ -188,8 +186,8 @@
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">HTML, CSS (2 years)</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">SQL, PHP, JavaScript (6 months)</span></li>
+<li>HTML, CSS (2 years)</li>
+<li>SQL, PHP, JavaScript (6 months)</li>
 </ul>
 </td>
 </tr>
@@ -199,7 +197,7 @@
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Self management</span></li>
+<li>Self management</li>
 </ul>
 </td>
 <td>
@@ -207,53 +205,125 @@
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Self management</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Time management</span></li>
+<li>Self management</li>
+<li>Time management</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td colspan="2">&nbsp;</td>
 <td>
 <p><strong>Projects</strong></p>
 </td>
 <td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Booking menu [1]</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Price report [2]</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Productivity report [3]</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Supplier Form [4]</span></li>
+<li>Booking menu [1]</li>
+<li>Price report [2]</li>
+<li>Productivity report [3]</li>
+<li>Supplier Form [4]</li>
 </ul>
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<h1><span style="font-weight: 400;">Education</span></h1>
-</td>
-</tr>
-<tr>
-<td colspan="4">
-<h2><span style="font-weight: 400;">Udemy.com</span></h2>
+<td colspan="2">
+<p>Hangar49</p>
 </td>
 </tr>
 <tr>
 <td>
 <p><strong>Duration</strong></p>
 </td>
-<td colspan="3">
-<p><span style="font-weight: 400;">Nov 2015 - May 2017 (1 yr 7 mo)</span></p>
+<td>
+<p>Mid May 2020 - Mid July 2020 (2 Months)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Basis</strong></p>
+</td>
+<td>
+<p>Short term project basis</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Company</strong></p>
+</td>
+<td>
+<p>Creator of email marketing solutions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Hard Skills</strong></p>
+</td>
+<td>
+<ul>
+<li>Linux servers</li>
+<li>PHP</li>
+<li>Mail agent infrastructure</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Soft Skills</strong></p>
+</td>
+<td>
+<ul>
+<li>Self management</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<h1>Education</h1>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h2>Technical @ Udemy.com</h2>
+</td>
+<td colspan="2">
+<h2>Matric @ Valley Tutor Center</h2>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td>
+<p>Nov 2015 - May 2017 (1 yr 7 mo)</p>
+</td>
+<td>
+<p><strong>Duration</strong></p>
+</td>
+<td>
+<p>2010 - 2013</p>
 </td>
 </tr>
 <tr>
 <td>
 <p><strong>Courses</strong></p>
 </td>
-<td colspan="3">
+<td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">The Complete Web Developer Course - With Rob Percival</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">PHP for Beginners - With Edwin Diaz</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">PHP with Laravel for beginners - With Edwin Diaz</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">React - With Maximilian Schwarzm&uuml;ller</span></li>
+<li>The Complete Web Developer Course - With Rob Percival</li>
+<li>PHP for Beginners - With Edwin Diaz</li>
+<li>PHP with Laravel for beginners - With Edwin Diaz</li>
+<li>React - With Maximilian Schwarzm&uuml;ller</li>
+</ul>
+</td>
+<td>
+<p><strong>Courses</strong></p>
+</td>
+<td>
+<ul>
+<li>Physics A level</li>
+<li>English AS level</li>
+<li>Math AS level</li>
+<li>Biology IGCSE (A)</li>
+<li>Business studies IGCSE (A)</li>
+<li>ICT IGCSE (B)</li>
 </ul>
 </td>
 </tr>
@@ -261,10 +331,10 @@
 <td>
 <p><strong>Projects</strong></p>
 </td>
-<td colspan="3">
+<td>
 <ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">FlexFile [5] - </span><a href="https://github.com/ivan006/FlexFile-2b"><span style="font-weight: 400;">https://github.com/ivan006/FlexFile-2b</span></a><span style="font-weight: 400;">&nbsp;</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Firebase Inspired Form [6] - </span><a href="https://github.com/ivan006/Firebase-Inspired-Form"><span style="font-weight: 400;">https://github.com/ivan006/Firebase-Inspired-Form</span></a><span style="font-weight: 400;">&nbsp;</span></li>
+<li>FlexFile [5] - <a href="https://github.com/ivan006/FlexFile-2b">https://github.com/ivan006/FlexFile-2b</a>&nbsp;</li>
+<li>Firebase Inspired Form [6] - <a href="https://github.com/ivan006/Firebase-Inspired-Form">https://github.com/ivan006/Firebase-Inspired-Form</a>&nbsp;</li>
 </ul>
 </td>
 </tr>
