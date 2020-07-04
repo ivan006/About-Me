@@ -225,7 +225,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Hangar49</p>
+<h2>Hangar49</h2>
 </td>
 </tr>
 <tr>
