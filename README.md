@@ -96,6 +96,35 @@
 <ul>
 <li>Self management</li>
 </ul>
+</td>
+<td>
+<h3>Hangar49</h3>
+<p>Duration</p>
+<ul>
+<li>Mid May 2020 - Mid July 2020 (2 Months)</li>
+</ul>
+<p>Basis</p>
+<ul>
+<li>Short term project basis</li>
+</ul>
+<p>Company</p>
+<ul>
+<li>Creator of email marketing solutions</li>
+</ul>
+<p>Hard Skills</p>
+<ul>
+<li>Linux servers</li>
+<li>PHP</li>
+<li>Mail agent infrastructure</li>
+</ul>
+<p>Soft Skills</p>
+<ul>
+<li>Self management</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
 <h3>Hex Africa</h3>
 <p>Duration</p>
 <ul>
@@ -121,31 +150,6 @@
 <li>Price report [2]</li>
 <li>Productivity report [3]</li>
 <li>Supplier Form [4]</li>
-</ul>
-</td>
-<td>
-<h3>Hangar49</h3>
-<p>Duration</p>
-<ul>
-<li>Mid May 2020 - Mid July 2020 (2 Months)</li>
-</ul>
-<p>Basis</p>
-<ul>
-<li>Short term project basis</li>
-</ul>
-<p>Company</p>
-<ul>
-<li>Creator of email marketing solutions</li>
-</ul>
-<p>Hard Skills</p>
-<ul>
-<li>Linux servers</li>
-<li>PHP</li>
-<li>Mail agent infrastructure</li>
-</ul>
-<p>Soft Skills</p>
-<ul>
-<li>Self management</li>
 </ul>
 </td>
 </tr>
@@ -206,6 +210,4 @@
 <h2>Footnotes</h2>
 <p>Renditions of the projects I have worked on (portfolio).</p>
 
-<h1><span style="font-weight: 400;">Footnotes</span></h1>
-<p><span style="font-weight: 400;">Renditions of the projects I have worked on.</span></p>
 <img src='https://raw.githubusercontent.com/ivan006/About-Me/master/files/collage%202.png' />
